@@ -33,5 +33,11 @@ const { name, title, tagline, contact } = Astro.props;
         GitHub
       </a>
     )}
+    {contact.portfolio && (
+      <a href={contact.portfolio} target="_blank" rel="noopener noreferrer">
+        <span class="lang-es">Portafolio</span>
+        <span class="lang-en">Portfolio</span>
+      </a>
+    )}
   </div>
 </section>

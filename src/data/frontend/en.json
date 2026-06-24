@@ -20,20 +20,49 @@
       "en": "Venezuela — Remote"
     },
     "linkedin": "https://www.linkedin.com/in/eudys-mora-a16431255",
-    "github": "https://github.com/eudysj95"
+    "github": "https://github.com/eudysj95",
+    "portfolio": "https://miportafolio-eudysj95.netlify.app/"
   },
   "skills": [
     {
-      "category": { "es": "Frontend", "en": "Frontend" },
-      "items": ["JavaScript", "React", "HTML5", "CSS3", "Tailwind CSS", "WordPress"]
+      "category": {
+        "es": "Frontend",
+        "en": "Frontend"
+      },
+      "items": [
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "WordPress"
+      ]
     },
     {
-      "category": { "es": "Backend", "en": "Backend" },
-      "items": ["Node.js", "Express.js", "MongoDB", "Mongoose", "RESTful APIs"]
+      "category": {
+        "es": "Backend",
+        "en": "Backend"
+      },
+      "items": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs"
+      ]
     },
     {
-      "category": { "es": "Herramientas", "en": "Tools" },
-      "items": ["Git", "GitHub", "VS Code", "Postman", "Excel"]
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Excel"
+      ]
     }
   ],
   "experience": [
@@ -133,8 +162,7 @@
       },
       "url": "https://github.com/eudysj95"
     }
-  ]
-  ,
+  ],
   "languages": [
     {
       "language": {
