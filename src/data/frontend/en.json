@@ -134,4 +134,27 @@
       "url": "https://github.com/eudysj95"
     }
   ]
+  ,
+  "languages": [
+    {
+      "language": {
+        "es": "Español",
+        "en": "Spanish"
+      },
+      "level": {
+        "es": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "language": {
+        "es": "Inglés",
+        "en": "English"
+      },
+      "level": {
+        "es": "Intermedio-Avanzado",
+        "en": "Intermediate-Advanced"
+      }
+    }
+  ]
 }

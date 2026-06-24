@@ -24,42 +24,109 @@
   },
   "skills": [
     {
-      "category": { "es": "Frontend", "en": "Frontend" },
-      "items": ["JavaScript", "React", "HTML5", "CSS3", "Tailwind CSS", "WordPress"]
+      "category": {
+        "es": "Frontend",
+        "en": "Frontend"
+      },
+      "items": [
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "WordPress"
+      ]
     },
     {
-      "category": { "es": "Backend", "en": "Backend" },
-      "items": ["Node.js", "Express.js", "MongoDB", "Mongoose", "RESTful APIs"]
+      "category": {
+        "es": "Backend",
+        "en": "Backend"
+      },
+      "items": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs"
+      ]
     },
     {
-      "category": { "es": "Herramientas", "en": "Tools" },
-      "items": ["Git", "GitHub", "VS Code", "Postman", "Bash"]
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Bash"
+      ]
     }
   ],
   "aiTools": [
     {
-      "category": { "es": "Asistentes de Código", "en": "Code Assistants" },
+      "category": {
+        "es": "Asistentes de Código",
+        "en": "Code Assistants"
+      },
       "items": [
-        { "es": "Claude (Anthropic)", "en": "Claude (Anthropic)" },
-        { "es": "ChatGPT (OpenAI)", "en": "ChatGPT (OpenAI)" },
-        { "es": "GitHub Copilot", "en": "GitHub Copilot" }
+        {
+          "es": "Claude (Anthropic)",
+          "en": "Claude (Anthropic)"
+        },
+        {
+          "es": "ChatGPT (OpenAI)",
+          "en": "ChatGPT (OpenAI)"
+        },
+        {
+          "es": "GitHub Copilot",
+          "en": "GitHub Copilot"
+        }
       ]
     },
     {
-      "category": { "es": "Flujo de Trabajo con IA", "en": "AI Workflow" },
+      "category": {
+        "es": "Flujo de Trabajo con IA",
+        "en": "AI Workflow"
+      },
       "items": [
-        { "es": "Prompt Engineering avanzado", "en": "Advanced Prompt Engineering" },
-        { "es": "Generación y revisión de código asistida", "en": "AI-Assisted Code Generation & Review" },
-        { "es": "Depuración y resolución de errores con IA", "en": "AI-Powered Debugging" },
-        { "es": "Arquitectura asistida por IA (SDD)", "en": "AI-Assisted Architecture (SDD)" }
+        {
+          "es": "Prompt Engineering avanzado",
+          "en": "Advanced Prompt Engineering"
+        },
+        {
+          "es": "Generación y revisión de código asistida",
+          "en": "AI-Assisted Code Generation & Review"
+        },
+        {
+          "es": "Depuración y resolución de errores con IA",
+          "en": "AI-Powered Debugging"
+        },
+        {
+          "es": "Arquitectura asistida por IA (SDD)",
+          "en": "AI-Assisted Architecture (SDD)"
+        }
       ]
     },
     {
-      "category": { "es": "Automatización", "en": "Automation" },
+      "category": {
+        "es": "Automatización",
+        "en": "Automation"
+      },
       "items": [
-        { "es": "Automatización de tareas con scripts", "en": "Task Automation with Scripts" },
-        { "es": "Integración de APIs de IA", "en": "AI API Integration" },
-        { "es": "Documentación automatizada", "en": "Automated Documentation" }
+        {
+          "es": "Automatización de tareas con scripts",
+          "en": "Task Automation with Scripts"
+        },
+        {
+          "es": "Integración de APIs de IA",
+          "en": "AI API Integration"
+        },
+        {
+          "es": "Documentación automatizada",
+          "en": "Automated Documentation"
+        }
       ]
     }
   ],
@@ -155,6 +222,28 @@
         "en": "MERN applications with AI-assisted code generation, automated testing, and generated documentation."
       },
       "url": "https://github.com/eudysj95"
+    }
+  ],
+  "languages": [
+    {
+      "language": {
+        "es": "Español",
+        "en": "Spanish"
+      },
+      "level": {
+        "es": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "language": {
+        "es": "Inglés",
+        "en": "English"
+      },
+      "level": {
+        "es": "Intermedio-Avanzado",
+        "en": "Intermediate-Advanced"
+      }
     }
   ]
 }

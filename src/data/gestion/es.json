@@ -24,7 +24,10 @@
   },
   "skills": [
     {
-      "category": { "es": "Gestión y Liderazgo", "en": "Management & Leadership" },
+      "category": {
+        "es": "Gestión y Liderazgo",
+        "en": "Management & Leadership"
+      },
       "items": [
         "Liderazgo de equipos",
         "Coordinación operativa",
@@ -35,12 +38,32 @@
       ]
     },
     {
-      "category": { "es": "Técnicas", "en": "Technical" },
-      "items": ["Excel", "Reportes financieros", "Logística", "Atención al cliente", "Negociación con proveedores"]
+      "category": {
+        "es": "Técnicas",
+        "en": "Technical"
+      },
+      "items": [
+        "Excel",
+        "Reportes financieros",
+        "Logística",
+        "Atención al cliente",
+        "Negociación con proveedores"
+      ]
     },
     {
-      "category": { "es": "Tecnología", "en": "Technology" },
-      "items": ["JavaScript", "React", "HTML5", "CSS3", "Node.js", "Git", "WordPress"]
+      "category": {
+        "es": "Tecnología",
+        "en": "Technology"
+      },
+      "items": [
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Git",
+        "WordPress"
+      ]
     }
   ],
   "experience": [
@@ -133,6 +156,28 @@
         "en": "Professional CV website with 3 profiles and bilingual support, demonstrating technical and project management skills."
       },
       "url": "https://eudysjmora.dev"
+    }
+  ],
+  "languages": [
+    {
+      "language": {
+        "es": "Español",
+        "en": "Spanish"
+      },
+      "level": {
+        "es": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "language": {
+        "es": "Inglés",
+        "en": "English"
+      },
+      "level": {
+        "es": "Intermedio-Avanzado",
+        "en": "Intermediate-Advanced"
+      }
     }
   ]
 }
