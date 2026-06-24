@@ -26,6 +26,18 @@ import dataEn from "../data/ia/en.json";
 
   <PrintButton />
 
+  <!-- Summary -->
+  <section class="section">
+    <h2 class="section-title">
+      <span class="lang-es section-title-es">Resumen Profesional</span>
+      <span class="lang-en section-title-en">Professional Summary</span>
+    </h2>
+    <p>
+      <span class="lang-es">{data.summary.es}</span>
+      <span class="lang-en">{data.summary.en}</span>
+    </p>
+  </section>
+
   <Skills skills={data.skills} />
 
   <AiTools aiTools={data.aiTools} />
