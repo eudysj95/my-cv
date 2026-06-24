@@ -1,0 +1,23 @@
+---
+const { education } = Astro.props;
+---
+
+<section class="section">
+  <h2 class="section-title">
+    <span class="lang-es section-title-es">Formación Académica</span>
+    <span class="lang-en section-title-en">Education</span>
+  </h2>
+
+  <ul class="education-list">
+    {education.map((entry) => (
+      <li class="education-item">
+        <h3 class="education-institution">{entry.institution}</h3>
+        <p class="education-degree">
+          <span class="lang-es">{entry.degree.es}</span>
+          <span class="lang-en">{entry.degree.en}</span>
+        </p>
+        <p class="education-period">{entry.period}</p>
+      </li>
+    ))}
+  </ul>
+</section>

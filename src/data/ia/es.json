@@ -1,0 +1,160 @@
+{
+  "name": "Eudys Mora",
+  "title": {
+    "es": "Programador potenciado por IA",
+    "en": "AI-Powered Programmer"
+  },
+  "tagline": {
+    "es": "Soy programador primero, potenciado por IA. Desarrollo web full-stack con un diferencial: integro herramientas de inteligencia artificial para potenciar la productividad y la calidad del código.",
+    "en": "I am a programmer first, AI-powered. Full-stack web development with a differentiator: I integrate artificial intelligence tools to boost productivity and code quality."
+  },
+  "summary": {
+    "es": "Programador full-stack con base sólida en JavaScript, React, Node.js y MongoDB. Lo que me diferencia es mi capacidad para integrar herramientas de inteligencia artificial en el flujo de desarrollo: prompt engineering, generación de código asistida, depuración con IA y automatización de tareas. Combino fundamentos de ingeniería de sistemas con un enfoque moderno y aumentado por IA para entregar soluciones más rápidas y robustas.",
+    "en": "Full-stack programmer with a solid foundation in JavaScript, React, Node.js, and MongoDB. What sets me apart is my ability to integrate artificial intelligence tools into the development workflow: prompt engineering, AI-assisted code generation, AI-powered debugging, and task automation. I combine systems engineering fundamentals with a modern, AI-augmented approach to deliver faster, more robust solutions."
+  },
+  "contact": {
+    "email": "eudysjmorag@gmail.com",
+    "phone": "+58 (424) 6187569",
+    "location": {
+      "es": "Venezuela — Remoto",
+      "en": "Venezuela — Remote"
+    },
+    "linkedin": "https://linkedin.com/in/eudysjmora",
+    "github": "https://github.com/eudysjmora"
+  },
+  "skills": [
+    {
+      "category": { "es": "Frontend", "en": "Frontend" },
+      "items": ["JavaScript", "React", "HTML5", "CSS3", "Tailwind CSS", "WordPress"]
+    },
+    {
+      "category": { "es": "Backend", "en": "Backend" },
+      "items": ["Node.js", "Express.js", "MongoDB", "Mongoose", "RESTful APIs"]
+    },
+    {
+      "category": { "es": "Herramientas", "en": "Tools" },
+      "items": ["Git", "GitHub", "VS Code", "Postman", "Bash"]
+    }
+  ],
+  "aiTools": [
+    {
+      "category": { "es": "Asistentes de Código", "en": "Code Assistants" },
+      "items": [
+        { "es": "Claude (Anthropic)", "en": "Claude (Anthropic)" },
+        { "es": "ChatGPT (OpenAI)", "en": "ChatGPT (OpenAI)" },
+        { "es": "GitHub Copilot", "en": "GitHub Copilot" }
+      ]
+    },
+    {
+      "category": { "es": "Flujo de Trabajo con IA", "en": "AI Workflow" },
+      "items": [
+        { "es": "Prompt Engineering avanzado", "en": "Advanced Prompt Engineering" },
+        { "es": "Generación y revisión de código asistida", "en": "AI-Assisted Code Generation & Review" },
+        { "es": "Depuración y resolución de errores con IA", "en": "AI-Powered Debugging" },
+        { "es": "Arquitectura asistida por IA (SDD)", "en": "AI-Assisted Architecture (SDD)" }
+      ]
+    },
+    {
+      "category": { "es": "Automatización", "en": "Automation" },
+      "items": [
+        { "es": "Automatización de tareas con scripts", "en": "Task Automation with Scripts" },
+        { "es": "Integración de APIs de IA", "en": "AI API Integration" },
+        { "es": "Documentación automatizada", "en": "Automated Documentation" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SEMAppic",
+      "role": {
+        "es": "Desarrollador Web",
+        "en": "Web Developer"
+      },
+      "period": "2018 – 2019",
+      "current": false,
+      "description": {
+        "es": [
+          "Desarrollo y mantenimiento de sitios web con WordPress y tecnologías frontend.",
+          "Optimización de rendimiento, SEO y experiencia de usuario.",
+          "Implementación de soluciones técnicas para mejorar la eficiencia del desarrollo."
+        ],
+        "en": [
+          "Website development and maintenance with WordPress and frontend technologies.",
+          "Performance optimization, SEO, and user experience improvements.",
+          "Implementation of technical solutions to improve development efficiency."
+        ]
+      }
+    },
+    {
+      "company": "Distribuidora Copa Éxito C.A.",
+      "role": {
+        "es": "Administrador de Panadería",
+        "en": "Bakery Manager"
+      },
+      "period": "2021 – Actualidad",
+      "current": true,
+      "description": {
+        "es": [
+          "Gestión de operaciones y liderazgo de equipos en entorno de alta demanda.",
+          "Análisis de datos operativos para la toma de decisiones y optimización de procesos.",
+          "Resolución de problemas complejos bajo presión con pensamiento analítico."
+        ],
+        "en": [
+          "Operations management and team leadership in a high-demand environment.",
+          "Operational data analysis for decision-making and process optimization.",
+          "Complex problem-solving under pressure with analytical thinking."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNEFA — Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+      "degree": {
+        "es": "Ingeniería de Sistemas",
+        "en": "Systems Engineering"
+      },
+      "period": "2014 – 2019"
+    },
+    {
+      "institution": "Udemy",
+      "degree": {
+        "es": "MERN Stack — MongoDB, Express, React, Node.js",
+        "en": "MERN Stack — MongoDB, Express, React, Node.js"
+      },
+      "period": "2024"
+    },
+    {
+      "institution": "Instituto Técnico",
+      "degree": {
+        "es": "Técnico en Reparación de Computadoras",
+        "en": "Computer Repair Technician"
+      },
+      "period": "2020"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": {
+        "es": "CV Multi-Versión Profesional",
+        "en": "Multi-Version Professional CV"
+      },
+      "description": {
+        "es": "Sitio web CV generado con arquitectura asistida por IA (SDD): spec-driven development, diseño automatizado y contenido generado con prompts especializados.",
+        "en": "CV website generated with AI-assisted architecture (SDD): spec-driven development, automated design, and content generated with specialized prompts."
+      },
+      "url": "https://eudysjmora.dev"
+    },
+    {
+      "title": {
+        "es": "Proyectos Full-Stack",
+        "en": "Full-Stack Projects"
+      },
+      "description": {
+        "es": "Aplicaciones MERN con generación de código asistida por IA, pruebas automatizadas y documentación generada.",
+        "en": "MERN applications with AI-assisted code generation, automated testing, and generated documentation."
+      },
+      "url": "https://github.com/eudysjmora"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cv-multiversion-profesional",
+  "version": "1.0.0",
+  "description": "Professional CV website for Eudys Mora — 3 profile versions × 2 languages = 6 views",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^7.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

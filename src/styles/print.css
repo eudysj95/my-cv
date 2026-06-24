@@ -1,0 +1,179 @@
+/* ===== CV Multi-Versión Profesional — Print Styles ===== */
+
+@media print {
+  /* Hide chrome */
+  .site-header,
+  .site-footer,
+  .print-actions,
+  .print-btn,
+  .lang-toggle-btn,
+  .version-tabs {
+    display: none !important;
+  }
+
+  /* Reset body for print */
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #000000;
+    background: #ffffff;
+    min-height: auto;
+  }
+
+  .main-content {
+    padding: 0;
+  }
+
+  .container {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  /* Links - show URLs in parentheses */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #555555;
+    font-weight: normal;
+  }
+
+  a[href^="/"]::after {
+    content: " (https://eudysjmora.dev" attr(href) ")";
+    font-size: 9pt;
+    color: #555555;
+    font-weight: normal;
+  }
+
+  /* Remove text decorations */
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  /* Monochrome */
+  .hero-title {
+    color: #000000;
+  }
+
+  .section-title {
+    border-bottom-color: #000000;
+  }
+
+  .skill-tag {
+    border: 1px solid #cccccc;
+    background: #ffffff;
+    color: #000000;
+  }
+
+  .skill-tag:hover {
+    background: #ffffff;
+    color: #000000;
+  }
+
+  /* Timeline adjustments */
+  .timeline::before {
+    background: #cccccc;
+  }
+
+  .timeline-item::before {
+    background: #000000;
+    border-color: #ffffff;
+  }
+
+  .timeline-item-current::before {
+    background: #000000;
+  }
+
+  .timeline-badge {
+    background: #000000;
+    color: #ffffff;
+  }
+
+  .timeline-company {
+    color: #000000;
+  }
+
+  .timeline-desc {
+    color: #000000;
+  }
+
+  /* Education */
+  .education-institution {
+    color: #000000;
+  }
+
+  .education-item {
+    border-bottom-color: #dddddd;
+  }
+
+  /* Portfolio */
+  .portfolio-card {
+    border: 1px solid #cccccc;
+    box-shadow: none;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .portfolio-card-title {
+    color: #000000;
+  }
+
+  .portfolio-card-desc {
+    color: #000000;
+  }
+
+  /* Page breaks */
+  .section {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .timeline-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .education-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  /* Increase spacing for print */
+  .section {
+    margin-bottom: 1.5em;
+  }
+
+  .hero {
+    padding: 0.5em 0;
+  }
+
+  .hero-name {
+    font-size: 18pt;
+  }
+
+  .hero-title {
+    font-size: 13pt;
+  }
+
+  .hero-tagline {
+    font-size: 11pt;
+    color: #333333;
+  }
+
+  .hero-contact {
+    font-size: 10pt;
+    color: #333333;
+  }
+
+  .section-title {
+    font-size: 14pt;
+  }
+}

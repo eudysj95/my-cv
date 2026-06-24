@@ -1,0 +1,138 @@
+{
+  "name": "Eudys Mora",
+  "title": {
+    "es": "Analista de Operaciones",
+    "en": "Operations Analyst"
+  },
+  "tagline": {
+    "es": "Ingeniero de Sistemas con 5+ años liderando operaciones, equipos y procesos de mejora continua.",
+    "en": "Systems Engineer with 5+ years leading operations, teams, and continuous improvement processes."
+  },
+  "summary": {
+    "es": "Ingeniero de Sistemas con más de 5 años de experiencia en gestión de operaciones, administración y liderazgo de equipos. Capacidad comprobada para optimizar procesos, controlar inventarios, gestionar presupuestos y coordinar personal. Formación técnica en sistemas que aporta una visión analítica y estructurada a la gestión empresarial. Alta capacidad de aprendizaje y adaptabilidad a nuevos entornos y desafíos.",
+    "en": "Systems Engineer with over 5 years of experience in operations management, administration, and team leadership. Proven ability to optimize processes, manage inventory, handle budgets, and coordinate staff. Technical background in systems engineering provides an analytical and structured approach to business management. High capacity for learning and adaptability to new environments and challenges."
+  },
+  "contact": {
+    "email": "eudysjmorag@gmail.com",
+    "phone": "+58 (424) 6187569",
+    "location": {
+      "es": "Venezuela — Remoto",
+      "en": "Venezuela — Remote"
+    },
+    "linkedin": "https://linkedin.com/in/eudysjmora",
+    "github": "https://github.com/eudysjmora"
+  },
+  "skills": [
+    {
+      "category": { "es": "Gestión y Liderazgo", "en": "Management & Leadership" },
+      "items": [
+        "Liderazgo de equipos",
+        "Coordinación operativa",
+        "Gestión de inventarios",
+        "Control de costos",
+        "Administración de presupuestos",
+        "Mejora continua"
+      ]
+    },
+    {
+      "category": { "es": "Técnicas", "en": "Technical" },
+      "items": ["Excel", "Reportes financieros", "Logística", "Atención al cliente", "Negociación con proveedores"]
+    },
+    {
+      "category": { "es": "Tecnología", "en": "Technology" },
+      "items": ["JavaScript", "React", "HTML5", "CSS3", "Node.js", "Git", "WordPress"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Distribuidora Copa Éxito C.A.",
+      "role": {
+        "es": "Administrador de Panadería",
+        "en": "Bakery Manager"
+      },
+      "period": "2021 – Actualidad",
+      "current": true,
+      "description": {
+        "es": [
+          "Liderazgo y supervisión de equipos de hasta 15 personas, coordinación de turnos y asignación de tareas.",
+          "Gestión integral de inventarios: control de stock, rotación de productos y pedidos a proveedores.",
+          "Administración de presupuestos operativos mensuales y elaboración de reportes financieros.",
+          "Implementación de procesos de mejora continua que redujeron pérdidas operativas en un 20%.",
+          "Negociación con proveedores para optimizar costos y garantizar calidad de insumos.",
+          "Atención y resolución de incidencias operativas y de personal."
+        ],
+        "en": [
+          "Leadership and supervision of teams of up to 15 people, shift coordination, and task assignment.",
+          "Comprehensive inventory management: stock control, product rotation, and supplier ordering.",
+          "Monthly operational budget administration and financial report preparation.",
+          "Implemented continuous improvement processes that reduced operational losses by 20%.",
+          "Supplier negotiation to optimize costs and ensure input quality.",
+          "Operational and personnel incident management and resolution."
+        ]
+      }
+    },
+    {
+      "company": "SEMAppic",
+      "role": {
+        "es": "Desarrollador Web",
+        "en": "Web Developer"
+      },
+      "period": "2018 – 2019",
+      "current": false,
+      "description": {
+        "es": [
+          "Desarrollo y mantenimiento de sitios web, gestión de proyectos y plazos de entrega.",
+          "Coordinación con clientes para definir requisitos y expectativas del proyecto.",
+          "Optimización de procesos de desarrollo y flujos de trabajo en equipo."
+        ],
+        "en": [
+          "Website development and maintenance, project management, and delivery deadlines.",
+          "Client coordination to define project requirements and expectations.",
+          "Optimization of development processes and team workflows."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNEFA — Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+      "degree": {
+        "es": "Ingeniería de Sistemas",
+        "en": "Systems Engineering"
+      },
+      "period": "2014 – 2019"
+    },
+    {
+      "institution": "Udemy",
+      "degree": {
+        "es": "MERN Stack — MongoDB, Express, React, Node.js",
+        "en": "MERN Stack — MongoDB, Express, React, Node.js"
+      },
+      "period": "2024"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": {
+        "es": "Optimización de Procesos Operativos",
+        "en": "Operational Process Optimization"
+      },
+      "description": {
+        "es": "Implementación de sistema de control de inventarios y reducción de pérdidas operativas en panadería industrial.",
+        "en": "Implementation of inventory control system and reduction of operational losses in an industrial bakery."
+      },
+      "url": "#"
+    },
+    {
+      "title": {
+        "es": "CV Multi-Versión Profesional",
+        "en": "Multi-Version Professional CV"
+      },
+      "description": {
+        "es": "Sitio web CV profesional con 3 perfiles y soporte bilingüe, demostrando capacidad técnica y de gestión de proyectos.",
+        "en": "Professional CV website with 3 profiles and bilingual support, demonstrating technical and project management skills."
+      },
+      "url": "https://eudysjmora.dev"
+    }
+  ]
+}

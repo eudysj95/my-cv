@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import Skills from "../components/Skills.astro";
+import Experience from "../components/Experience.astro";
+import Portfolio from "../components/Portfolio.astro";
+import Education from "../components/Education.astro";
+import PrintButton from "../components/PrintButton.astro";
+
+import data from "../data/frontend/es.json";
+import dataEn from "../data/frontend/en.json";
+---
+
+<BaseLayout
+  title={`${data.name} — ${data.title.es}`}
+  description={data.summary.es.substring(0, 160)}
+  currentSlug="frontend"
+>
+  <Hero
+    name={data.name}
+    title={data.title}
+    tagline={data.tagline}
+    contact={data.contact}
+  />
+
+  <PrintButton />
+
+  <Skills skills={data.skills} />
+
+  <Experience experience={data.experience} />
+
+  <Portfolio portfolio={data.portfolio} />
+
+  <Education education={data.education} />
+</BaseLayout>

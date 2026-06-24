@@ -1,0 +1,25 @@
+---
+const { currentSlug } = Astro.props;
+
+const tabs = [
+  { slug: "frontend", label: { es: "Frontend", en: "Frontend" } },
+  { slug: "gestion", label: { es: "Gestión", en: "Management" } },
+  { slug: "ia", label: { es: "IA", en: "AI" } },
+];
+---
+
+<nav aria-label="Profile versions">
+  <ul class="version-tabs">
+    {tabs.map((tab) => (
+      <li>
+        <a
+          href={`/${tab.slug}`}
+          class={`version-tab${currentSlug === tab.slug ? " version-tab--active" : ""}`}
+        >
+          <span class="lang-es">{tab.label.es}</span>
+          <span class="lang-en">{tab.label.en}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>

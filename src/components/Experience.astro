@@ -1,0 +1,41 @@
+---
+const { experience } = Astro.props;
+---
+
+<section class="section">
+  <h2 class="section-title">
+    <span class="lang-es section-title-es">Experiencia Profesional</span>
+    <span class="lang-en section-title-en">Professional Experience</span>
+  </h2>
+
+  <div class="timeline">
+    {experience.map((entry) => (
+      <div class={`timeline-item${entry.current ? " timeline-item-current" : ""}`}>
+        <h3 class="timeline-company">
+          {entry.company}
+          {entry.current && (
+            <span class="timeline-badge">
+              <span class="lang-es">Actual</span>
+              <span class="lang-en">Current</span>
+            </span>
+          )}
+        </h3>
+        <p class="timeline-role">
+          <span class="lang-es">{entry.role.es}</span>
+          <span class="lang-en">{entry.role.en}</span>
+        </p>
+        <p class="timeline-period">{entry.period}</p>
+        <div class="timeline-desc">
+          <ul>
+            {(entry.description.es).map((_, idx) => (
+              <li>
+                <span class="lang-es">{entry.description.es[idx]}</span>
+                <span class="lang-en">{entry.description.en[idx]}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>

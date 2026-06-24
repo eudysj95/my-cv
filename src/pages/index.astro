@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+interface VersionCard {
+  slug: string;
+  icon: string;
+  title: { es: string; en: string };
+  desc: { es: string; en: string };
+}
+
+const cards: VersionCard[] = [
+  {
+    slug: "frontend",
+    icon: "\u{1F4BB}",
+    title: { es: "Frontend", en: "Frontend" },
+    desc: {
+      es: "Perfil orientado al desarrollo de interfaces web modernas con React, JavaScript y Tailwind CSS.",
+      en: "Profile focused on modern web interface development with React, JavaScript, and Tailwind CSS.",
+    },
+  },
+  {
+    slug: "gestion",
+    icon: "\u{1F4CA}",
+    title: { es: "Gestión", en: "Management" },
+    desc: {
+      es: "Perfil profesional con 5+ años de experiencia en liderazgo de equipos, operaciones y mejora continua.",
+      en: "Professional profile with 5+ years of experience in team leadership, operations, and continuous improvement.",
+    },
+  },
+  {
+    slug: "ia",
+    icon: "\u26A1",
+    title: { es: "IA", en: "AI" },
+    desc: {
+      es: "Programador full-stack potenciado por inteligencia artificial. Prompt engineering y código asistido.",
+      en: "Full-stack programmer empowered by artificial intelligence. Prompt engineering and assisted coding.",
+    },
+  },
+];
+---
+
+<BaseLayout
+  title="Eudys Mora — CV Profesional"
+  description="CV profesional de Eudys Mora, Ingeniero de Sistemas. Explora mis perfiles de Frontend, Gestión y Programación con IA."
+  currentSlug=""
+>
+  <section class="landing-hero">
+    <h1>
+      <span class="lang-es">Eudys Mora</span>
+      <span class="lang-en">Eudys Mora</span>
+    </h1>
+    <p>
+      <span class="lang-es">Ingeniero de Sistemas &mdash; 3 perfiles, un solo profesional.</span>
+      <span class="lang-en">Systems Engineer &mdash; 3 profiles, one professional.</span>
+    </p>
+  </section>
+
+  <div class="landing-grid">
+    {cards.map((card) => (
+      <div class="landing-card">
+        <div class="landing-card-icon" aria-hidden="true">{card.icon}</div>
+        <h2 class="landing-card-title">{card.title.es}</h2>
+        <p class="landing-card-desc">
+          <span class="lang-es">{card.desc.es}</span>
+          <span class="lang-en">{card.desc.en}</span>
+        </p>
+        <a href={`/${card.slug}`} class="landing-card-cta">
+          <span class="lang-es">Ver perfil &rarr;</span>
+          <span class="lang-en">View profile &rarr;</span>
+        </a>
+      </div>
+    ))}
+  </div>
+</BaseLayout>

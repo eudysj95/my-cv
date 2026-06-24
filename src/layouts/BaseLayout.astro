@@ -1,0 +1,68 @@
+---
+import LangToggle from "../components/LangToggle.astro";
+import VersionTabs from "../components/VersionTabs.astro";
+import "../styles/global.css";
+import "../styles/print.css";
+
+interface Props {
+  title: string;
+  description: string;
+  currentSlug?: string;
+}
+
+const { title, description, currentSlug = "" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="es" data-lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+
+    <!-- Preload language detection — runs before render to prevent flash -->
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var lang = params.get("lang");
+        if (lang === "en") {
+          document.documentElement.lang = "en";
+          document.documentElement.dataset.lang = "en";
+        }
+      })();
+    </script>
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a href="/" class="site-brand">Eudys Mora</a>
+
+        <VersionTabs currentSlug={currentSlug} />
+
+        <LangToggle />
+      </div>
+    </header>
+
+    <main class="main-content">
+      <div class="container">
+        <slot />
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          <span class="lang-es">&copy; 2026 Eudys Mora — Todos los derechos reservados.</span>
+          <span class="lang-en">&copy; 2026 Eudys Mora — All rights reserved.</span>
+        </p>
+        <p>
+          <span class="lang-es">Construido con Astro y mucho caf&eacute;.</span>
+          <span class="lang-en">Built with Astro and lots of coffee.</span>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

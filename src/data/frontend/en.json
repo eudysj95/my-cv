@@ -1,0 +1,137 @@
+{
+  "name": "Eudys Mora",
+  "title": {
+    "es": "Desarrollador Frontend",
+    "en": "Frontend Developer"
+  },
+  "tagline": {
+    "es": "Construyo interfaces web modernas, accesibles y con experiencia de usuario excepcional.",
+    "en": "I build modern, accessible web interfaces with exceptional user experience."
+  },
+  "summary": {
+    "es": "Ingeniero de Sistemas con experiencia en desarrollo web frontend usando React, JavaScript y Tailwind CSS. Capacidad comprobada para crear interfaces responsivas y optimizadas. Complemento mi perfil técnico con conocimientos en backend Node.js y MongoDB, lo que me permite entender el ciclo completo del desarrollo web.",
+    "en": "Systems Engineer with experience in frontend web development using React, JavaScript, and Tailwind CSS. Proven ability to build responsive, optimized interfaces. I complement my technical profile with backend knowledge in Node.js and MongoDB, allowing me to understand the full web development cycle."
+  },
+  "contact": {
+    "email": "eudysjmorag@gmail.com",
+    "phone": "+58 (424) 6187569",
+    "location": {
+      "es": "Venezuela — Remoto",
+      "en": "Venezuela — Remote"
+    },
+    "linkedin": "https://linkedin.com/in/eudysjmora",
+    "github": "https://github.com/eudysjmora"
+  },
+  "skills": [
+    {
+      "category": { "es": "Frontend", "en": "Frontend" },
+      "items": ["JavaScript", "React", "HTML5", "CSS3", "Tailwind CSS", "WordPress"]
+    },
+    {
+      "category": { "es": "Backend", "en": "Backend" },
+      "items": ["Node.js", "Express.js", "MongoDB", "Mongoose", "RESTful APIs"]
+    },
+    {
+      "category": { "es": "Herramientas", "en": "Tools" },
+      "items": ["Git", "GitHub", "VS Code", "Postman", "Excel"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SEMAppic",
+      "role": {
+        "es": "Desarrollador Web",
+        "en": "Web Developer"
+      },
+      "period": "2018 – 2019",
+      "current": false,
+      "description": {
+        "es": [
+          "Desarrollo y mantenimiento de sitios web con WordPress, creando temas y plugins personalizados.",
+          "Optimización de rendimiento web y buenas prácticas de SEO on-page.",
+          "Colaboración en equipo para entrega de proyectos bajo cronogramas definidos.",
+          "Implementación de mejoras de experiencia de usuario y accesibilidad."
+        ],
+        "en": [
+          "Developed and maintained websites with WordPress, creating custom themes and plugins.",
+          "Web performance optimization and on-page SEO best practices.",
+          "Team collaboration for project delivery under defined schedules.",
+          "Implemented user experience and accessibility improvements."
+        ]
+      }
+    },
+    {
+      "company": "Distribuidora Copa Éxito C.A.",
+      "role": {
+        "es": "Administrador de Panadería",
+        "en": "Bakery Manager"
+      },
+      "period": "2021 – Present",
+      "current": true,
+      "description": {
+        "es": [
+          "Liderazgo de equipos de trabajo, coordinación de turnos y supervisión de personal.",
+          "Gestión de inventarios, proveedores y control de costos operativos.",
+          "Administración de presupuestos y reportes financieros mensuales.",
+          "Implementación de procesos de mejora continua en la operación diaria."
+        ],
+        "en": [
+          "Team leadership, shift coordination, and staff supervision.",
+          "Inventory management, supplier negotiations, and operational cost control.",
+          "Budget administration and monthly financial reporting.",
+          "Implemented continuous improvement processes in daily operations."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNEFA — Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+      "degree": {
+        "es": "Ingeniería de Sistemas",
+        "en": "Systems Engineering"
+      },
+      "period": "2014 – 2019"
+    },
+    {
+      "institution": "Udemy",
+      "degree": {
+        "es": "MERN Stack — MongoDB, Express, React, Node.js",
+        "en": "MERN Stack — MongoDB, Express, React, Node.js"
+      },
+      "period": "2024"
+    },
+    {
+      "institution": "Instituto Técnico",
+      "degree": {
+        "es": "Técnico en Reparación de Computadoras",
+        "en": "Computer Repair Technician"
+      },
+      "period": "2020"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": {
+        "es": "CV Multi-Versión Profesional",
+        "en": "Multi-Version Professional CV"
+      },
+      "description": {
+        "es": "Sitio web CV con 3 perfiles profesionales y soporte bilingüe ES/EN, construido con Astro y CSS personalizado.",
+        "en": "CV website with 3 professional profiles and ES/EN bilingual support, built with Astro and custom CSS."
+      },
+      "url": "https://eudysjmora.dev"
+    },
+    {
+      "title": {
+        "es": "Aplicaciones React",
+        "en": "React Applications"
+      },
+      "description": {
+        "es": "Proyectos de práctica construidos con React, explorando hooks, estado global y consumo de APIs REST.",
+        "en": "Practice projects built with React, exploring hooks, global state, and REST API consumption."
+      },
+      "url": "https://github.com/eudysjmora"
+    }
+  ]
+}
