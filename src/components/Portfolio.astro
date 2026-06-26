@@ -11,23 +11,32 @@ const { portfolio } = Astro.props;
   <div class="portfolio-grid">
     {portfolio.map((project) => (
       <article class="portfolio-card">
-        <h3 class="portfolio-card-title">
-          <span class="lang-es">{project.title.es}</span>
-          <span class="lang-en">{project.title.en}</span>
-        </h3>
-        <p class="portfolio-card-desc">
-          <span class="lang-es">{project.description.es}</span>
-          <span class="lang-en">{project.description.en}</span>
-        </p>
-        <a
-          href={project.url}
-          class="portfolio-card-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <span class="lang-es">Ver proyecto &rarr;</span>
-          <span class="lang-en">View project &rarr;</span>
-        </a>
+        {project.image && (
+          <div class="portfolio-card-image">
+            <a href={project.url} target="_blank" rel="noopener noreferrer">
+              <img src={project.image} alt={project.title.es} loading="lazy" />
+            </a>
+          </div>
+        )}
+        <div class="portfolio-card-body">
+          <h3 class="portfolio-card-title">
+            <span class="lang-es">{project.title.es}</span>
+            <span class="lang-en">{project.title.en}</span>
+          </h3>
+          <p class="portfolio-card-desc">
+            <span class="lang-es">{project.description.es}</span>
+            <span class="lang-en">{project.description.en}</span>
+          </p>
+          <a
+            href={project.url}
+            class="portfolio-card-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="lang-es">Ver proyecto &rarr;</span>
+            <span class="lang-en">View project &rarr;</span>
+          </a>
+        </div>
       </article>
     ))}
   </div>

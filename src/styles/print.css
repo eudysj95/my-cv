@@ -38,7 +38,7 @@
   }
 
   a[href^="/"]::after {
-    content: " (https://eudysjmora.dev" attr(href) ")";
+    content: " (https://eudys-cv.netlify.app" attr(href) ")";
     font-size: 9pt;
     color: #555555;
     font-weight: normal;

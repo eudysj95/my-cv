@@ -45,6 +45,7 @@
       },
       "items": [
         "Excel",
+        "Power BI",
         "Financial Reports",
         "Logistics",
         "Customer Service",
@@ -138,25 +139,26 @@
   "portfolio": [
     {
       "title": {
-        "es": "Optimización de Procesos Operativos",
-        "en": "Operational Process Optimization"
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
       },
       "description": {
-        "es": "Implementación de sistema de control de inventarios y reducción de pérdidas operativas en panadería industrial.",
-        "en": "Implementation of inventory control system and reduction of operational losses in an industrial bakery."
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticación de usuarios y panel de administración. Ideal para operaciones y administración.",
+        "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard. Ideal for operations and administration."
       },
-      "url": "#"
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
     },
     {
       "title": {
-        "es": "CV Multi-Versión Profesional",
-        "en": "Multi-Version Professional CV"
+        "es": "Más proyectos en GitHub",
+        "en": "More projects on GitHub"
       },
       "description": {
-        "es": "Sitio web CV profesional con 3 perfiles y soporte bilingüe, demostrando capacidad técnica y de gestión de proyectos.",
-        "en": "Professional CV website with 3 profiles and bilingual support, demonstrating technical and project management skills."
+        "es": "Explora mi repositorio con proyectos, experimentos y práctica continua en desarrollo de software.",
+        "en": "Explore my repository with projects, experiments, and continuous practice in software development."
       },
-      "url": "https://eudysjmora.dev"
+      "url": "https://github.com/eudysj95"
     }
   ],
   "languages": [

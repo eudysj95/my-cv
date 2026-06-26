@@ -60,8 +60,8 @@
         "Git",
         "GitHub",
         "VS Code",
-        "Postman",
-        "Excel"
+        "Excel",
+        "Power BI"
       ]
     }
   ],
@@ -131,7 +131,7 @@
       "period": "2024"
     },
     {
-      "institution": "Instituto Técnico",
+      "institution": "Instituto Técnico Tamanaco",
       "degree": {
         "es": "Técnico en Reparación de Computadoras",
         "en": "Computer Repair Technician"
@@ -142,23 +142,72 @@
   "portfolio": [
     {
       "title": {
-        "es": "CV Multi-Versión Profesional",
-        "en": "Multi-Version Professional CV"
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
       },
       "description": {
-        "es": "Sitio web CV con 3 perfiles profesionales y soporte bilingüe ES/EN, construido con Astro y CSS personalizado.",
-        "en": "CV website with 3 professional profiles and ES/EN bilingual support, built with Astro and custom CSS."
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticación de usuarios y panel de administración.",
+        "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard."
       },
-      "url": "https://eudysjmora.dev"
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
     },
     {
       "title": {
-        "es": "Aplicaciones React",
-        "en": "React Applications"
+        "es": "Calculadora App",
+        "en": "Calculator App"
       },
       "description": {
-        "es": "Proyectos de práctica construidos con React, explorando hooks, estado global y consumo de APIs REST.",
-        "en": "Practice projects built with React, exploring hooks, global state, and REST API consumption."
+        "es": "Calculadora interactiva construida con React y Vite, con operaciones básicas y diseño responsive.",
+        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+      },
+      "url": "https://calculatorapp-eudysj95.netlify.app/",
+      "image": "/screenshots/calculator.jpg"
+    },
+    {
+      "title": {
+        "es": "Sistema CRUD - Cuevana",
+        "en": "CRUD System - Cuevana"
+      },
+      "description": {
+        "es": "Aplicación CRUD estilo plataforma de contenido, construida con React y Vite para gestión de datos.",
+        "en": "CRUD application inspired by content platforms, built with React and Vite for data management."
+      },
+      "url": "https://cuevana-eudysj95.netlify.app/",
+      "image": "/screenshots/cuevana.jpg"
+    },
+    {
+      "title": {
+        "es": "Hangman Game",
+        "en": "Hangman Game"
+      },
+      "description": {
+        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y diseño atractivo.",
+        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
+      },
+      "url": "https://the-hangman-game-eudysj95.netlify.app/",
+      "image": "/screenshots/hangman.jpg"
+    },
+    {
+      "title": {
+        "es": "API Rest Countries",
+        "en": "REST Countries API"
+      },
+      "description": {
+        "es": "Aplicación que consume la API REST de países, con búsqueda, filtrado y diseño responsive.",
+        "en": "Application consuming the REST Countries API, with search, filtering, and responsive design."
+      },
+      "url": "https://api-rest-countries-eudysj95.netlify.app/",
+      "image": "/screenshots/countries.jpg"
+    },
+    {
+      "title": {
+        "es": "Más proyectos en GitHub",
+        "en": "More projects on GitHub"
+      },
+      "description": {
+        "es": "Explora mi repositorio con más proyectos, experimentos y práctica continua.",
+        "en": "Explore my repository with more projects, experiments, and continuous practice."
       },
       "url": "https://github.com/eudysj95"
     }

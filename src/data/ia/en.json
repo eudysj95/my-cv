@@ -60,8 +60,8 @@
         "Git",
         "GitHub",
         "VS Code",
-        "Postman",
-        "Bash"
+        "Bash",
+        "Power BI"
       ]
     }
   ],
@@ -193,7 +193,7 @@
       "period": "2024"
     },
     {
-      "institution": "Instituto Técnico",
+      "institution": "Instituto Técnico Tamanaco",
       "degree": {
         "es": "Técnico en Reparación de Computadoras",
         "en": "Computer Repair Technician"
@@ -204,23 +204,24 @@
   "portfolio": [
     {
       "title": {
-        "es": "CV Multi-Versión Profesional",
-        "en": "Multi-Version Professional CV"
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
       },
       "description": {
-        "es": "Sitio web CV generado con arquitectura asistida por IA (SDD): spec-driven development, diseño automatizado y contenido generado con prompts especializados.",
-        "en": "CV website generated with AI-assisted architecture (SDD): spec-driven development, automated design, and content generated with specialized prompts."
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticación de usuarios y panel de administración.",
+        "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard."
       },
-      "url": "https://eudysjmora.dev"
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
     },
     {
       "title": {
-        "es": "Proyectos Full-Stack",
-        "en": "Full-Stack Projects"
+        "es": "Más proyectos en GitHub",
+        "en": "More projects on GitHub"
       },
       "description": {
-        "es": "Aplicaciones MERN con generación de código asistida por IA, pruebas automatizadas y documentación generada.",
-        "en": "MERN applications with AI-assisted code generation, automated testing, and generated documentation."
+        "es": "Explora mi repositorio con más proyectos, experimentos y práctica continua.",
+        "en": "Explore my repository with more projects, experiments, and continuous practice."
       },
       "url": "https://github.com/eudysj95"
     }
