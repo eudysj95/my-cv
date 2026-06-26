@@ -1,0 +1,62 @@
+---
+
+---
+
+<button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle theme">
+  <span class="theme-label-classic">🌙 Dark</span>
+  <span class="theme-label-dark">☀️ Classic</span>
+</button>
+
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", function () {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+
+    function updateButton(theme) {
+      var classic = btn.querySelector(".theme-label-classic");
+      var dark = btn.querySelector(".theme-label-dark");
+      if (!classic || !dark) return;
+      classic.style.display = theme === "classic" ? "inline" : "none";
+      dark.style.display = theme === "dark" ? "inline" : "none";
+    }
+
+    // Set initial state
+    updateButton(document.documentElement.dataset.theme || "classic");
+
+    btn.addEventListener("click", function () {
+      var html = document.documentElement;
+      var current = html.dataset.theme || "classic";
+      var next = current === "classic" ? "dark" : "classic";
+      html.dataset.theme = next;
+      localStorage.setItem("theme", next);
+      updateButton(next);
+    });
+  });
+</script>
+
+<style>
+  .theme-toggle-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: background var(--transition-fast);
+  }
+
+  .theme-toggle-btn:hover {
+    background: rgba(255, 255, 255, 0.25);
+  }
+
+  .theme-toggle-btn:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+  }
+</style>
