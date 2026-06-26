@@ -76,16 +76,14 @@
       "current": false,
       "description": {
         "es": [
-          "Desarrollo y mantenimiento de sitios web con WordPress, creando temas y plugins personalizados.",
-          "Optimización de rendimiento web y buenas prácticas de SEO on-page.",
-          "Colaboración en equipo para entrega de proyectos bajo cronogramas definidos.",
-          "Implementación de mejoras de experiencia de usuario y accesibilidad."
+          "Desarrollo y mantenimiento de sitios web con WordPress.",
+          "Creación y personalización de temas y plugins.",
+          "Gestión de contenido, actualizaciones y soporte al cliente."
         ],
         "en": [
-          "Developed and maintained websites with WordPress, creating custom themes and plugins.",
-          "Web performance optimization and on-page SEO best practices.",
-          "Team collaboration for project delivery under defined schedules.",
-          "Implemented user experience and accessibility improvements."
+          "Website development and maintenance with WordPress.",
+          "Creation and customization of themes and plugins.",
+          "Content management, updates, and client support."
         ]
       }
     },

@@ -82,7 +82,7 @@
           "Liderazgo y supervisión de equipos de hasta 15 personas, coordinación de turnos y asignación de tareas.",
           "Gestión integral de inventarios: control de stock, rotación de productos y pedidos a proveedores.",
           "Administración de presupuestos operativos mensuales y elaboración de reportes financieros.",
-          "Implementación de procesos de mejora continua que redujeron pérdidas operativas en un 20%.",
+          "Implementación de procesos de mejora continua que redujeron pérdidas operativas.",
           "Negociación con proveedores para optimizar costos y garantizar calidad de insumos.",
           "Atención y resolución de incidencias operativas y de personal."
         ],
@@ -90,7 +90,7 @@
           "Leadership and supervision of teams of up to 15 people, shift coordination, and task assignment.",
           "Comprehensive inventory management: stock control, product rotation, and supplier ordering.",
           "Monthly operational budget administration and financial report preparation.",
-          "Implemented continuous improvement processes that reduced operational losses by 20%.",
+          "Implemented continuous improvement processes that reduced operational losses.",
           "Supplier negotiation to optimize costs and ensure input quality.",
           "Operational and personnel incident management and resolution."
         ]
@@ -106,14 +106,14 @@
       "current": false,
       "description": {
         "es": [
-          "Desarrollo y mantenimiento de sitios web, gestión de proyectos y plazos de entrega.",
-          "Coordinación con clientes para definir requisitos y expectativas del proyecto.",
-          "Optimización de procesos de desarrollo y flujos de trabajo en equipo."
+          "Desarrollo y mantenimiento de sitios web con WordPress.",
+          "Creación y personalización de temas y plugins.",
+          "Gestión de contenido, actualizaciones y soporte al cliente."
         ],
         "en": [
-          "Website development and maintenance, project management, and delivery deadlines.",
-          "Client coordination to define project requirements and expectations.",
-          "Optimization of development processes and team workflows."
+          "Website development and maintenance with WordPress.",
+          "Creation and customization of themes and plugins.",
+          "Content management, updates, and client support."
         ]
       }
     }
