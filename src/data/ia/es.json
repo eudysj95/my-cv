@@ -26,26 +26,34 @@
   "skills": [
     {
       "category": {
-        "es": "Frontend",
-        "en": "Frontend"
+        "es": "Lenguajes de Programación",
+        "en": "Programming Languages"
       },
       "items": [
         "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": {
+        "es": "Frameworks y Librerías",
+        "en": "Frameworks & Libraries"
+      },
+      "items": [
         "React",
-        "HTML5",
-        "CSS3",
+        "Node.js",
+        "Express.js",
         "Tailwind CSS",
         "WordPress"
       ]
     },
     {
       "category": {
-        "es": "Backend",
-        "en": "Backend"
+        "es": "Bases de Datos",
+        "en": "Databases"
       },
       "items": [
-        "Node.js",
-        "Express.js",
         "MongoDB",
         "Mongoose",
         "RESTful APIs"

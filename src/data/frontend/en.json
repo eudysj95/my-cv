@@ -5,12 +5,12 @@
     "en": "Frontend Developer"
   },
   "tagline": {
-    "es": "Construyo interfaces web modernas, accesibles y con experiencia de usuario excepcional.",
-    "en": "I build modern, accessible web interfaces with exceptional user experience."
+    "es": "Construyo interfaces web modernas con React y JavaScript, potenciado por inteligencia artificial.",
+    "en": "I build modern web interfaces with React and JavaScript, powered by artificial intelligence."
   },
   "summary": {
-    "es": "Ingeniero de Sistemas con experiencia en desarrollo web frontend usando React, JavaScript y Tailwind CSS. Capacidad comprobada para crear interfaces responsivas y optimizadas. Complemento mi perfil técnico con conocimientos en backend Node.js y MongoDB, lo que me permite entender el ciclo completo del desarrollo web.",
-    "en": "Systems Engineer with experience in frontend web development using React, JavaScript, and Tailwind CSS. Proven ability to build responsive, optimized interfaces. I complement my technical profile with backend knowledge in Node.js and MongoDB, allowing me to understand the full web development cycle."
+    "es": "Ingeniero de Sistemas con experiencia en desarrollo web frontend usando React, JavaScript y Tailwind CSS. Capacidad comprobada para crear interfaces responsivas y optimizadas. Complemento mi perfil técnico con conocimientos en backend Node.js y MongoDB, lo que me permite entender el ciclo completo del desarrollo web. Integro herramientas de IA en mi flujo de trabajo para optimizar código, depuración y documentación.",
+    "en": "Systems Engineer with experience in frontend web development using React, JavaScript, and Tailwind CSS. Proven ability to build responsive, optimized interfaces. I complement my technical profile with backend knowledge in Node.js and MongoDB, allowing me to understand the full web development cycle. I integrate AI tools into my workflow to optimize code, debugging, and documentation."
   },
   "contact": {
     "email": "eudysjmorag@gmail.com",
@@ -62,6 +62,17 @@
         "VS Code",
         "Excel",
         "Power BI"
+      ]
+    },
+    {
+      "category": {
+        "es": "Herramientas IA",
+        "en": "AI Tools"
+      },
+      "items": [
+        "OpenCode",
+        "Gentle AI",
+        "SDD"
       ]
     }
   ],
