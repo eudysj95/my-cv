@@ -1,0 +1,68 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Hero from "../components/Hero.astro";
+import Skills from "../components/Skills.astro";
+import Experience from "../components/Experience.astro";
+import Education from "../components/Education.astro";
+import Portfolio from "../components/Portfolio.astro";
+import PrintButton from "../components/PrintButton.astro";
+
+import data from "../data/analista/es.json";
+import dataEn from "../data/analista/en.json";
+---
+
+<BaseLayout
+  title={`${data.name} — ${data.title.es}`}
+  description={data.summary.es.substring(0, 160)}
+  currentSlug="analista"
+>
+  <Hero
+    name={data.name}
+    title={data.title}
+    tagline={data.tagline}
+    contact={data.contact}
+  />
+
+  <PrintButton />
+
+  <!-- Summary Section -->
+  <section class="section">
+    <h2 class="section-title">
+      <span class="lang-es section-title-es">Resumen Profesional</span>
+      <span class="lang-en section-title-en">Professional Summary</span>
+    </h2>
+    <p>
+      <span class="lang-es">{data.summary.es}</span>
+      <span class="lang-en">{data.summary.en}</span>
+    </p>
+  </section>
+
+  <Skills skills={data.skills} />
+
+  <Experience experience={data.experience} />
+
+  <Education education={data.education} />
+
+  <Portfolio portfolio={data.portfolio} />
+
+  <!-- Languages -->
+  <section class="section">
+    <h2 class="section-title">
+      <span class="lang-es section-title-es">Idiomas</span>
+      <span class="lang-en section-title-en">Languages</span>
+    </h2>
+    <ul>
+      {data.languages.map((lang) => (
+        <li>
+          <strong>
+            <span class="lang-es">{lang.language.es}</span>
+            <span class="lang-en">{lang.language.en}</span>
+          </strong>
+          &mdash;
+          <span class="lang-es">{lang.level.es}</span>
+          <span class="lang-en">{lang.level.en}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>
