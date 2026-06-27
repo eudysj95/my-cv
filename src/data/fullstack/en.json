@@ -1,0 +1,263 @@
+{
+  "name": "Eudys Mora",
+  "title": {
+    "es": "Full Stack + Management",
+    "en": "Full Stack + Management"
+  },
+  "tagline": {
+    "es": "Frontend, IA y Gesti\u00f3n empresarial en un solo perfil.",
+    "en": "Frontend, AI, and Business Management in one profile."
+  },
+  "summary": {
+    "es": "Ingeniero de Sistemas con experiencia integral en desarrollo web full-stack, integraci\u00f3n de herramientas de inteligencia artificial y gesti\u00f3n empresarial. Especializado en frontend con React, JavaScript y Tailwind CSS, complementado con conocimientos en backend Node.js y MongoDB. Aplico IA en mi flujo de trabajo para optimizar c\u00f3digo, depuraci\u00f3n y documentaci\u00f3n. Cuento con m\u00e1s de 5 a\u00f1os de experiencia en liderazgo de equipos, administraci\u00f3n de operaciones, gesti\u00f3n de inventarios y control de costos. Esta combinaci\u00f3n de habilidades t\u00e9cnicas, herramientas de IA y capacidad de gesti\u00f3n me permite abordar proyectos desde la visi\u00f3n estrat\u00e9gica hasta la ejecuci\u00f3n t\u00e9cnica.",
+    "en": "Systems Engineer with comprehensive experience in full-stack web development, artificial intelligence tool integration, and business management. Specialized in frontend with React, JavaScript, and Tailwind CSS, complemented by backend knowledge in Node.js and MongoDB. I integrate AI into my workflow to optimize code, debugging, and documentation. With over 5 years of experience in team leadership, operations management, inventory management, and cost control. This combination of technical skills, AI tools, and management capability allows me to approach projects from strategic vision to technical execution."
+  },
+  "contact": {
+    "email": "eudysjmorag@gmail.com",
+    "phone": "+58 (424) 6187569",
+    "location": {
+      "es": "Venezuela \u2014 Remoto",
+      "en": "Venezuela \u2014 Remote"
+    },
+    "linkedin": "https://www.linkedin.com/in/eudys-mora-a16431255",
+    "github": "https://github.com/eudysj95",
+    "portfolio": "https://miportafolio-eudysj95.netlify.app/"
+  },
+  "skills": [
+    {
+      "category": {
+        "es": "Frontend",
+        "en": "Frontend"
+      },
+      "items": [
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "WordPress"
+      ]
+    },
+    {
+      "category": {
+        "es": "Backend",
+        "en": "Backend"
+      },
+      "items": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "category": {
+        "es": "Herramientas IA",
+        "en": "AI Tools"
+      },
+      "items": [
+        "OpenCode",
+        "Gentle AI",
+        "SDD",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "category": {
+        "es": "Gesti\u00f3n y Liderazgo",
+        "en": "Management & Leadership"
+      },
+      "items": [
+        "Team Leadership",
+        "Inventory Management",
+        "Budget Administration",
+        "Cost Control",
+        "Process Improvement",
+        "Supplier Negotiation",
+        "Shift Coordination",
+        "Staff Supervision"
+      ]
+    },
+    {
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Excel",
+        "Power BI"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SEMAppic",
+      "role": {
+        "es": "Desarrollador Web",
+        "en": "Web Developer"
+      },
+      "period": "2018 \u2013 2019",
+      "current": false,
+      "description": {
+        "es": [
+          "Desarrollo y mantenimiento de sitios web con WordPress.",
+          "Creaci\u00f3n y personalizaci\u00f3n de temas y plugins.",
+          "Gesti\u00f3n de contenido, actualizaciones y soporte al cliente."
+        ],
+        "en": [
+          "Website development and maintenance with WordPress.",
+          "Creation and customization of themes and plugins.",
+          "Content management, updates, and client support."
+        ]
+      }
+    },
+    {
+      "company": "Distribuidora Copa \u00c9xito C.A.",
+      "role": {
+        "es": "Administrador de Panader\u00eda",
+        "en": "Bakery Manager"
+      },
+      "period": "2021 \u2013 Present",
+      "current": true,
+      "description": {
+        "es": [
+          "Liderazgo de equipos de trabajo, coordinaci\u00f3n de turnos y supervisi\u00f3n de personal.",
+          "Gesti\u00f3n de inventarios, proveedores y control de costos operativos.",
+          "Administraci\u00f3n de presupuestos y reportes financieros mensuales.",
+          "Implementaci\u00f3n de procesos de mejora continua en la operaci\u00f3n diaria."
+        ],
+        "en": [
+          "Team leadership, shift coordination, and staff supervision.",
+          "Inventory management, supplier negotiations, and operational cost control.",
+          "Budget administration and monthly financial reporting.",
+          "Implemented continuous improvement processes in daily operations."
+        ]
+      }
+    }
+  ],
+  "portfolio": [
+    {
+      "title": {
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
+      },
+      "description": {
+        "es": "Sistema de gesti\u00f3n multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticaci\u00f3n de usuarios y panel de administraci\u00f3n.",
+        "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard."
+      },
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
+    },
+    {
+      "title": {
+        "es": "Calculadora App",
+        "en": "Calculator App"
+      },
+      "description": {
+        "es": "Calculadora interactiva construida con React y Vite, con operaciones b\u00e1sicas y dise\u00f1o responsive.",
+        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+      },
+      "url": "https://calculatorapp-eudysj95.netlify.app/",
+      "image": "/screenshots/calculator.jpg"
+    },
+    {
+      "title": {
+        "es": "Sistema CRUD - Cuevana",
+        "en": "CRUD System - Cuevana"
+      },
+      "description": {
+        "es": "Aplicaci\u00f3n CRUD estilo plataforma de contenido, construida con React y Vite para gesti\u00f3n de datos.",
+        "en": "CRUD application inspired by content platforms, built with React and Vite for data management."
+      },
+      "url": "https://cuevana-eudysj95.netlify.app/",
+      "image": "/screenshots/cuevana.jpg"
+    },
+    {
+      "title": {
+        "es": "Hangman Game",
+        "en": "Hangman Game"
+      },
+      "description": {
+        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y dise\u00f1o atractivo.",
+        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
+      },
+      "url": "https://the-hangman-game-eudysj95.netlify.app/",
+      "image": "/screenshots/hangman.jpg"
+    },
+    {
+      "title": {
+        "es": "API Rest Countries",
+        "en": "REST Countries API"
+      },
+      "description": {
+        "es": "Aplicaci\u00f3n que consume la API REST de pa\u00edses, con b\u00fasqueda, filtrado y dise\u00f1o responsive.",
+        "en": "Application consuming the REST Countries API, with search, filtering, and responsive design."
+      },
+      "url": "https://api-rest-countries-eudysj95.netlify.app/",
+      "image": "/screenshots/countries.jpg"
+    },
+    {
+      "title": {
+        "es": "M\u00e1s proyectos en GitHub",
+        "en": "More projects on GitHub"
+      },
+      "description": {
+        "es": "Explora mi repositorio con m\u00e1s proyectos, experimentos y pr\u00e1ctica continua.",
+        "en": "Explore my repository with more projects, experiments, and continuous practice."
+      },
+      "url": "https://github.com/eudysj95"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNEFA \u2014 Universidad Nacional Experimental Polit\u00e9cnica de la Fuerza Armada",
+      "degree": {
+        "es": "Ingenier\u00eda de Sistemas",
+        "en": "Systems Engineering"
+      },
+      "period": "2014 \u2013 2019"
+    },
+    {
+      "institution": "Udemy",
+      "degree": {
+        "es": "MERN Stack \u2014 MongoDB, Express, React, Node.js",
+        "en": "MERN Stack \u2014 MongoDB, Express, React, Node.js"
+      },
+      "period": "2024"
+    },
+    {
+      "institution": "Instituto T\u00e9cnico Tamanaco",
+      "degree": {
+        "es": "T\u00e9cnico en Reparaci\u00f3n de Computadoras",
+        "en": "Computer Repair Technician"
+      },
+      "period": "2020"
+    }
+  ],
+  "languages": [
+    {
+      "language": {
+        "es": "Espa\u00f1ol",
+        "en": "Spanish"
+      },
+      "level": {
+        "es": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "language": {
+        "es": "Ingl\u00e9s",
+        "en": "English"
+      },
+      "level": {
+        "es": "Intermedio-Avanzado",
+        "en": "Intermediate-Advanced"
+      }
+    }
+  ]
+}
