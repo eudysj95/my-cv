@@ -106,16 +106,16 @@
     border-bottom-color: #dddddd;
   }
 
-  /* Portfolio — card layout like screen, print-friendly */
+  /* Portfolio — compact card grid for print */
   .portfolio-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6em;
   }
 
   .portfolio-card {
     border: 1px solid #cccccc;
-    border-radius: 4px;
+    border-radius: 3px;
     box-shadow: none;
     break-inside: avoid;
     page-break-inside: avoid;
@@ -125,7 +125,7 @@
 
   .portfolio-card-image {
     width: 100%;
-    max-height: 130px;
+    max-height: 70px;
     aspect-ratio: 16 / 9;
     overflow: hidden;
     background: #f5f5f5;
@@ -151,19 +151,19 @@
   }
 
   .portfolio-card-body {
-    padding: 0.6em 0.8em;
+    padding: 0.4em 0.6em;
   }
 
   .portfolio-card-title {
     color: #000000;
-    font-size: 12pt;
-    margin-bottom: 0.3em;
+    font-size: 9pt;
+    margin-bottom: 0.2em;
   }
 
   .portfolio-card-desc {
     color: #333333;
-    font-size: 10pt;
-    line-height: 1.35;
+    font-size: 8pt;
+    line-height: 1.3;
   }
 
   .portfolio-card-link {
