@@ -68,8 +68,8 @@
     {
       "company": "Distribuidora Copa Éxito C.A.",
       "role": {
-        "es": "Administrador de Panadería",
-        "en": "Bakery Manager"
+        "es": "Administrador",
+        "en": "Manager"
       },
       "period": "2021 – Actualidad",
       "current": true,
@@ -150,6 +150,18 @@
       },
       "url": "https://pikos-web.netlify.app/",
       "image": "/screenshots/pikos.jpg"
+    },
+    {
+      "title": {
+        "es": "Portfolio Personal",
+        "en": "Personal Portfolio"
+      },
+      "description": {
+        "es": "Portfolio profesional con análisis de datos y desarrollo, construido con React, Vite y Tailwind CSS, con diseño oscuro moderno.",
+        "en": "Professional portfolio with data analysis and development, built with React, Vite and Tailwind CSS, featuring a modern dark design."
+      },
+      "url": "https://miportafolio-eudysj95.netlify.app/",
+      "image": "/screenshots/portfolio.jpg"
     },
     {
       "title": {

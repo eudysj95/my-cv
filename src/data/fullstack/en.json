@@ -118,8 +118,8 @@
     {
       "company": "Distribuidora Copa \u00c9xito C.A.",
       "role": {
-        "es": "Administrador de Panader\u00eda",
-        "en": "Bakery Manager"
+        "es": "Administrador",
+        "en": "Manager"
       },
       "period": "2021 \u2013 Present",
       "current": true,
@@ -202,11 +202,23 @@
     },
     {
       "title": {
-        "es": "M\u00e1s proyectos en GitHub",
+        "es": "Portfolio Personal",
+        "en": "Personal Portfolio"
+      },
+      "description": {
+        "es": "Portfolio profesional full-stack que muestra proyectos, habilidades y experiencia, construido con React, Vite y Tailwind CSS.",
+        "en": "Full-stack professional portfolio showcasing projects, skills, and experience, built with React, Vite and Tailwind CSS."
+      },
+      "url": "https://miportafolio-eudysj95.netlify.app/",
+      "image": "/screenshots/portfolio.jpg"
+    },
+    {
+      "title": {
+        "es": "Más proyectos en GitHub",
         "en": "More projects on GitHub"
       },
       "description": {
-        "es": "Explora mi repositorio con m\u00e1s proyectos, experimentos y pr\u00e1ctica continua.",
+        "es": "Explora mi repositorio con más proyectos, experimentos y práctica continua.",
         "en": "Explore my repository with more projects, experiments, and continuous practice."
       },
       "url": "https://github.com/eudysj95"

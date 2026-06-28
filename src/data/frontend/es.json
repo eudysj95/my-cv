@@ -101,8 +101,8 @@
     {
       "company": "Distribuidora Copa Éxito C.A.",
       "role": {
-        "es": "Administrador de Panadería",
-        "en": "Bakery Manager"
+        "es": "Administrador",
+        "en": "Manager"
       },
       "period": "2021 – Actualidad",
       "current": true,
@@ -208,6 +208,18 @@
       },
       "url": "https://api-rest-countries-eudysj95.netlify.app/",
       "image": "/screenshots/countries.jpg"
+    },
+    {
+      "title": {
+        "es": "Portfolio Personal",
+        "en": "Personal Portfolio"
+      },
+      "description": {
+        "es": "Portfolio profesional que muestra mis proyectos, habilidades y experiencia como desarrollador Frontend, con diseño oscuro moderno construido con React y Vite.",
+        "en": "Professional portfolio showcasing my projects, skills, and experience as a Frontend developer, with a modern dark design built with React and Vite."
+      },
+      "url": "https://miportafolio-eudysj95.netlify.app/",
+      "image": "/screenshots/portfolio.jpg"
     },
     {
       "title": {
