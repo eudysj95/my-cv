@@ -1,0 +1,277 @@
+{
+  "name": "Eudys Mora",
+  "title": {
+    "es": "Gestión + Analista",
+    "en": "Management + Analyst"
+  },
+  "tagline": {
+    "es": "Analista de Sistemas con visión de gestión — datos, procesos y liderazgo en un solo perfil.",
+    "en": "Systems Analyst with a management mindset — data, processes, and leadership in one profile."
+  },
+  "summary": {
+    "es": "Ingeniero de Sistemas con capacidad para analizar necesidades, documentar requisitos y proponer soluciones tecnológicas, combinando análisis de datos con liderazgo de equipos y gestión de operaciones. Manejo de herramientas como Excel, Power BI y SQL para respaldar la toma de decisiones, complementado con más de 5 años liderando equipos, administrando presupuestos, controlando inventarios y optimizando procesos. Experiencia comprobada en mejora continua, negociación con proveedores y supervisión de personal. Enfoque analítico y estructurado para resolver problemas y optimizar tanto la información como las operaciones de la organización.",
+    "en": "Systems Engineer with the ability to analyze needs, document requirements, and propose technological solutions, combining data analysis with team leadership and operations management. Skilled in tools such as Excel, Power BI, and SQL to support decision-making, complemented by over 5 years leading teams, managing budgets, controlling inventory, and optimizing processes. Proven experience in continuous improvement, supplier negotiation, and staff supervision. Analytical and structured approach to solving problems and optimizing both information and operations within the organization."
+  },
+  "contact": {
+    "email": "eudysjmorag@gmail.com",
+    "phone": "+58 (424) 6187569",
+    "location": {
+      "es": "Venezuela — Remoto",
+      "en": "Venezuela — Remote"
+    },
+    "linkedin": "https://www.linkedin.com/in/eudys-mora-a16431255",
+    "github": "https://github.com/eudysj95",
+    "portfolio": "https://miportafolio-eudysj95.netlify.app/"
+  },
+  "skills": [
+    {
+      "category": {
+        "es": "Análisis de Datos",
+        "en": "Data Analysis"
+      },
+      "items": [
+        "Excel",
+        "Power BI",
+        "SQL",
+        "Data Visualization",
+        "Reports & Dashboards"
+      ]
+    },
+    {
+      "category": {
+        "es": "Bases de Datos",
+        "en": "Databases"
+      },
+      "items": [
+        "Relational Databases",
+        "Database Management",
+        "Data Modeling"
+      ]
+    },
+    {
+      "category": {
+        "es": "Gestión y Liderazgo",
+        "en": "Management & Leadership"
+      },
+      "items": [
+        "Team Leadership",
+        "Operations Coordination",
+        "Inventory Management",
+        "Cost Control",
+        "Budget Administration",
+        "Continuous Improvement",
+        "Supplier Negotiation",
+        "Staff Supervision"
+      ]
+    },
+    {
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "items": [
+        "Git",
+        "VS Code",
+        "JavaScript",
+        "WordPress"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Distribuidora Copa Éxito C.A.",
+      "role": {
+        "es": "Administrador",
+        "en": "Manager"
+      },
+      "period": "2021 – Present",
+      "current": true,
+      "description": {
+        "es": [
+          "Análisis de datos operativos para la toma de decisiones y optimización de procesos.",
+          "Generación de reportes financieros y de gestión para la dirección.",
+          "Gestión integral de inventarios: control de stock, rotación de productos y pedidos a proveedores.",
+          "Liderazgo y supervisión de equipos de hasta 15 personas, coordinación de turnos y asignación de tareas.",
+          "Administración de presupuestos operativos mensuales y elaboración de reportes financieros.",
+          "Implementación de procesos de mejora continua que redujeron pérdidas operativas.",
+          "Negociación con proveedores para optimizar costos y garantizar calidad de insumos."
+        ],
+        "en": [
+          "Operational data analysis for decision-making and process optimization.",
+          "Generation of financial and management reports for leadership.",
+          "Comprehensive inventory management: stock control, product rotation, and supplier ordering.",
+          "Leadership and supervision of teams of up to 15 people, shift coordination, and task assignment.",
+          "Monthly operational budget administration and financial report preparation.",
+          "Implemented continuous improvement processes that reduced operational losses.",
+          "Supplier negotiation to optimize costs and ensure input quality."
+        ]
+      }
+    },
+    {
+      "company": "SEMAppic",
+      "role": {
+        "es": "Desarrollador Web",
+        "en": "Web Developer"
+      },
+      "period": "2018 – 2019",
+      "current": false,
+      "description": {
+        "es": [
+          "Desarrollo y mantenimiento de sitios web con WordPress.",
+          "Creación y personalización de temas y plugins.",
+          "Gestión de contenido, actualizaciones y soporte al cliente."
+        ],
+        "en": [
+          "Website development and maintenance with WordPress.",
+          "Creation and customization of themes and plugins.",
+          "Content management, updates, and client support."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNEFA — Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+      "degree": {
+        "es": "Ingeniería de Sistemas",
+        "en": "Systems Engineering"
+      },
+      "period": "2014 – 2019"
+    },
+    {
+      "institution": "Udemy",
+      "degree": {
+        "es": "MERN Stack — MongoDB, Express, React, Node.js",
+        "en": "MERN Stack — MongoDB, Express, React, Node.js"
+      },
+      "period": "2024"
+    },
+    {
+      "institution": "Instituto Técnico Tamanaco",
+      "degree": {
+        "es": "Técnico en Reparación de Computadoras",
+        "en": "Computer Repair Technician"
+      },
+      "period": "2020"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": {
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
+      },
+      "description": {
+        "es": "Sistema de gestión multi-sucursal con análisis de datos, reportes y panel de administración, desarrollado con Next.js.",
+        "en": "Multi-branch management system with data analysis, reports, and admin dashboard, developed with Next.js."
+      },
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
+    },
+    {
+      "title": {
+        "es": "CV Profesional Multi-Perfil",
+        "en": "Multi-Profile Professional CV"
+      },
+      "description": {
+        "es": "Sitio web de CV profesional con 7 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA, Gestión + Analista), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x.",
+        "en": "Professional CV website with 7 tailored profiles (Frontend, Analyst, Management, AI, Full Stack + Management, Frontend + AI, Management + Analyst), bilingual ES/EN support, and PDF export. Built with Astro 7.x."
+      },
+      "url": "https://eudys-cv.netlify.app/",
+      "image": "/screenshots/cv-site.jpg"
+    },
+    {
+      "title": {
+        "es": "Portfolio Personal",
+        "en": "Personal Portfolio"
+      },
+      "description": {
+        "es": "Portfolio profesional que muestra mis proyectos, habilidades y experiencia, con diseño oscuro moderno construido con React y Vite.",
+        "en": "Professional portfolio showcasing my projects, skills, and experience, with a modern dark design built with React and Vite."
+      },
+      "url": "https://miportafolio-eudysj95.netlify.app/",
+      "image": "/screenshots/portfolio.jpg"
+    },
+    {
+      "title": {
+        "es": "Sistema CRUD - Cuevana",
+        "en": "CRUD System - Cuevana"
+      },
+      "description": {
+        "es": "Aplicación CRUD estilo plataforma de contenido, construida con React y Vite para gestión de datos.",
+        "en": "CRUD application inspired by content platforms, built with React and Vite for data management."
+      },
+      "url": "https://cuevana-eudysj95.netlify.app/",
+      "image": "/screenshots/cuevana.jpg"
+    },
+    {
+      "title": {
+        "es": "API Rest Countries",
+        "en": "REST Countries API"
+      },
+      "description": {
+        "es": "Aplicación que consume la API REST de países, con búsqueda, filtrado y diseño responsive.",
+        "en": "Application consuming the REST Countries API, with search, filtering, and responsive design."
+      },
+      "url": "https://api-rest-countries-eudysj95.netlify.app/",
+      "image": "/screenshots/countries.jpg"
+    },
+    {
+      "title": {
+        "es": "Calculadora App",
+        "en": "Calculator App"
+      },
+      "description": {
+        "es": "Calculadora interactiva construida con React y Vite, con operaciones básicas y diseño responsive.",
+        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+      },
+      "url": "https://calculatorapp-eudysj95.netlify.app/",
+      "image": "/screenshots/calculator.jpg"
+    },
+    {
+      "title": {
+        "es": "Hangman Game",
+        "en": "Hangman Game"
+      },
+      "description": {
+        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y diseño atractivo.",
+        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
+      },
+      "url": "https://the-hangman-game-eudysj95.netlify.app/",
+      "image": "/screenshots/hangman.jpg"
+    },
+    {
+      "title": {
+        "es": "Más proyectos en GitHub",
+        "en": "More projects on GitHub"
+      },
+      "description": {
+        "es": "Explora mi repositorio con más proyectos, experimentos y práctica continua.",
+        "en": "Explore my repository with more projects, experiments, and continuous practice."
+      },
+      "url": "https://github.com/eudysj95"
+    }
+  ],
+  "languages": [
+    {
+      "language": {
+        "es": "Español",
+        "en": "Spanish"
+      },
+      "level": {
+        "es": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "language": {
+        "es": "Inglés",
+        "en": "English"
+      },
+      "level": {
+        "es": "Intermedio-Avanzado",
+        "en": "Intermediate-Advanced"
+      }
+    }
+  ]
+}
