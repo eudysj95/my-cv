@@ -265,17 +265,6 @@
       },
       "url": "https://the-hangman-game-eudysj95.netlify.app/",
       "image": "/screenshots/hangman.jpg"
-    },
-    {
-      "title": {
-        "es": "Más proyectos en GitHub",
-        "en": "More projects on GitHub"
-      },
-      "description": {
-        "es": "Explora mi repositorio con más proyectos, experimentos y práctica continua.",
-        "en": "Explore my repository with more projects, experiments, and continuous practice."
-      },
-      "url": "https://github.com/eudysj95"
     }
   ],
   "education": [

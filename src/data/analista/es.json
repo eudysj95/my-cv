@@ -174,17 +174,6 @@
       },
       "url": "https://miportafolio-eudysj95.netlify.app/",
       "image": "/screenshots/portfolio.jpg"
-    },
-    {
-      "title": {
-        "es": "Más proyectos en GitHub",
-        "en": "More projects on GitHub"
-      },
-      "description": {
-        "es": "Explora mi repositorio con proyectos, experimentos y práctica continua en desarrollo de software.",
-        "en": "Explore my repository with projects, experiments, and continuous practice in software development."
-      },
-      "url": "https://github.com/eudysj95"
     }
   ],
   "languages": [

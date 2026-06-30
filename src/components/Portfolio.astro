@@ -13,9 +13,7 @@ const { portfolio } = Astro.props;
       <article class="portfolio-card">
         {project.image && (
           <div class="portfolio-card-image">
-            <a href={project.url} target="_blank" rel="noopener noreferrer">
-              <img src={project.image} alt={project.title.es} loading="lazy" />
-            </a>
+            <img src={project.image} alt={project.title.es} loading="lazy" />
           </div>
         )}
         <div class="portfolio-card-body">
@@ -27,17 +25,17 @@ const { portfolio } = Astro.props;
             <span class="lang-es">{project.description.es}</span>
             <span class="lang-en">{project.description.en}</span>
           </p>
-          <a
-            href={project.url}
-            class="portfolio-card-link"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <span class="lang-es">Ver proyecto &rarr;</span>
-            <span class="lang-en">View project &rarr;</span>
-          </a>
         </div>
       </article>
     ))}
   </div>
+
+  <p class="portfolio-footer">
+    <span class="lang-es">
+      Todos los proyectos están disponibles en mi portafolio en línea.
+    </span>
+    <span class="lang-en">
+      All projects are available on my online portfolio.
+    </span>
+  </p>
 </section>
