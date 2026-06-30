@@ -5,19 +5,19 @@
     "en": "Full Stack + Management"
   },
   "tagline": {
-    "es": "Frontend, IA y Gesti\u00f3n empresarial en un solo perfil.",
+    "es": "Frontend, IA y Gestión empresarial en un solo perfil.",
     "en": "Frontend, AI, and Business Management in one profile."
   },
   "summary": {
-    "es": "Ingeniero de Sistemas con experiencia integral en desarrollo web full-stack, integraci\u00f3n de herramientas de inteligencia artificial y gesti\u00f3n empresarial. Especializado en frontend con React, JavaScript y Tailwind CSS, complementado con conocimientos en backend Node.js y MongoDB. Aplico IA en mi flujo de trabajo para optimizar c\u00f3digo, depuraci\u00f3n y documentaci\u00f3n. Cuento con m\u00e1s de 5 a\u00f1os de experiencia en liderazgo de equipos, administraci\u00f3n de operaciones, gesti\u00f3n de inventarios y control de costos. Esta combinaci\u00f3n de habilidades t\u00e9cnicas, herramientas de IA y capacidad de gesti\u00f3n me permite abordar proyectos desde la visi\u00f3n estrat\u00e9gica hasta la ejecuci\u00f3n t\u00e9cnica.",
+    "es": "Ingeniero de Sistemas con experiencia integral en desarrollo web full-stack, integración de herramientas de inteligencia artificial y gestión empresarial. Especializado en frontend con React, JavaScript y Tailwind CSS, complementado con conocimientos en backend Node.js y MongoDB. Aplico IA en mi flujo de trabajo para optimizar código, depuración y documentación. Cuento con más de 5 años de experiencia en liderazgo de equipos, administración de operaciones, gestión de inventarios y control de costos. Esta combinación de habilidades técnicas, herramientas de IA y capacidad de gestión me permite abordar proyectos desde la visión estratégica hasta la ejecución técnica.",
     "en": "Systems Engineer with comprehensive experience in full-stack web development, artificial intelligence tool integration, and business management. Specialized in frontend with React, JavaScript, and Tailwind CSS, complemented by backend knowledge in Node.js and MongoDB. I integrate AI into my workflow to optimize code, debugging, and documentation. With over 5 years of experience in team leadership, operations management, inventory management, and cost control. This combination of technical skills, AI tools, and management capability allows me to approach projects from strategic vision to technical execution."
   },
   "contact": {
     "email": "eudysjmorag@gmail.com",
     "phone": "+58 (424) 6187569",
     "location": {
-      "es": "Venezuela \u2014 Remoto",
-      "en": "Venezuela \u2014 Remote"
+      "es": "Venezuela — Remoto",
+      "en": "Venezuela — Remote"
     },
     "linkedin": "https://www.linkedin.com/in/eudys-mora-a16431255",
     "github": "https://github.com/eudysj95",
@@ -65,7 +65,7 @@
     },
     {
       "category": {
-        "es": "Gesti\u00f3n y Liderazgo",
+        "es": "Gestión y Liderazgo",
         "en": "Management & Leadership"
       },
       "items": [
@@ -103,13 +103,13 @@
         "es": "Desarrollador Web",
         "en": "Web Developer"
       },
-      "period": "2018 \u2013 2019",
+      "period": "2018 – 2019",
       "current": false,
       "description": {
         "es": [
           "Desarrollo y mantenimiento de sitios web con WordPress.",
-          "Creaci\u00f3n y personalizaci\u00f3n de temas y plugins.",
-          "Gesti\u00f3n de contenido, actualizaciones y soporte al cliente."
+          "Creación y personalización de temas y plugins.",
+          "Gestión de contenido, actualizaciones y soporte al cliente."
         ],
         "en": [
           "Website development and maintenance with WordPress.",
@@ -119,19 +119,19 @@
       }
     },
     {
-      "company": "Distribuidora Copa \u00c9xito C.A.",
+      "company": "Distribuidora Copa Éxito C.A.",
       "role": {
         "es": "Administrador",
         "en": "Manager"
       },
-      "period": "2021 \u2013 Present",
+      "period": "2021 – Present",
       "current": true,
       "description": {
         "es": [
-          "Liderazgo de equipos de trabajo, coordinaci\u00f3n de turnos y supervisi\u00f3n de personal.",
-          "Gesti\u00f3n de inventarios, proveedores y control de costos operativos.",
-          "Administraci\u00f3n de presupuestos y reportes financieros mensuales.",
-          "Implementaci\u00f3n de procesos de mejora continua en la operaci\u00f3n diaria."
+          "Liderazgo de equipos de trabajo, coordinación de turnos y supervisión de personal.",
+          "Gestión de inventarios, proveedores y control de costos operativos.",
+          "Administración de presupuestos y reportes financieros mensuales.",
+          "Implementación de procesos de mejora continua en la operación diaria."
         ],
         "en": [
           "Team leadership, shift coordination, and staff supervision.",
@@ -149,7 +149,7 @@
         "en": "PIKOS - Betting Center"
       },
       "description": {
-        "es": "Sistema de gesti\u00f3n multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticaci\u00f3n de usuarios y panel de administraci\u00f3n.",
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticación de usuarios y panel de administración.",
         "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard."
       },
       "url": "https://pikos-web.netlify.app/",
@@ -157,51 +157,15 @@
     },
     {
       "title": {
-        "es": "Calculadora App",
-        "en": "Calculator App"
+        "es": "CV Profesional Multi-Perfil",
+        "en": "Multi-Profile Professional CV"
       },
       "description": {
-        "es": "Calculadora interactiva construida con React y Vite, con operaciones b\u00e1sicas y dise\u00f1o responsive.",
-        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+        "es": "Sitio web de CV profesional con 6 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x.",
+        "en": "Professional CV website with 6 tailored profiles (Frontend, Analyst, Management, AI, Full Stack + Management, Frontend + AI), bilingual ES/EN support, and PDF export. Built with Astro 7.x."
       },
-      "url": "https://calculatorapp-eudysj95.netlify.app/",
-      "image": "/screenshots/calculator.jpg"
-    },
-    {
-      "title": {
-        "es": "Sistema CRUD - Cuevana",
-        "en": "CRUD System - Cuevana"
-      },
-      "description": {
-        "es": "Aplicaci\u00f3n CRUD estilo plataforma de contenido, construida con React y Vite para gesti\u00f3n de datos.",
-        "en": "CRUD application inspired by content platforms, built with React and Vite for data management."
-      },
-      "url": "https://cuevana-eudysj95.netlify.app/",
-      "image": "/screenshots/cuevana.jpg"
-    },
-    {
-      "title": {
-        "es": "Hangman Game",
-        "en": "Hangman Game"
-      },
-      "description": {
-        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y dise\u00f1o atractivo.",
-        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
-      },
-      "url": "https://the-hangman-game-eudysj95.netlify.app/",
-      "image": "/screenshots/hangman.jpg"
-    },
-    {
-      "title": {
-        "es": "API Rest Countries",
-        "en": "REST Countries API"
-      },
-      "description": {
-        "es": "Aplicaci\u00f3n que consume la API REST de pa\u00edses, con b\u00fasqueda, filtrado y dise\u00f1o responsive.",
-        "en": "Application consuming the REST Countries API, with search, filtering, and responsive design."
-      },
-      "url": "https://api-rest-countries-eudysj95.netlify.app/",
-      "image": "/screenshots/countries.jpg"
+      "url": "https://eudys-cv.netlify.app/",
+      "image": "/screenshots/cv-site.jpg"
     },
     {
       "title": {
@@ -217,6 +181,54 @@
     },
     {
       "title": {
+        "es": "Sistema CRUD - Cuevana",
+        "en": "CRUD System - Cuevana"
+      },
+      "description": {
+        "es": "Aplicación CRUD estilo plataforma de contenido, construida con React y Vite para gestión de datos.",
+        "en": "CRUD application inspired by content platforms, built with React and Vite for data management."
+      },
+      "url": "https://cuevana-eudysj95.netlify.app/",
+      "image": "/screenshots/cuevana.jpg"
+    },
+    {
+      "title": {
+        "es": "API Rest Countries",
+        "en": "REST Countries API"
+      },
+      "description": {
+        "es": "Aplicación que consume la API REST de países, con búsqueda, filtrado y diseño responsive.",
+        "en": "Application consuming the REST Countries API, with search, filtering, and responsive design."
+      },
+      "url": "https://api-rest-countries-eudysj95.netlify.app/",
+      "image": "/screenshots/countries.jpg"
+    },
+    {
+      "title": {
+        "es": "Calculadora App",
+        "en": "Calculator App"
+      },
+      "description": {
+        "es": "Calculadora interactiva construida con React y Vite, con operaciones básicas y diseño responsive.",
+        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+      },
+      "url": "https://calculatorapp-eudysj95.netlify.app/",
+      "image": "/screenshots/calculator.jpg"
+    },
+    {
+      "title": {
+        "es": "Hangman Game",
+        "en": "Hangman Game"
+      },
+      "description": {
+        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y diseño atractivo.",
+        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
+      },
+      "url": "https://the-hangman-game-eudysj95.netlify.app/",
+      "image": "/screenshots/hangman.jpg"
+    },
+    {
+      "title": {
         "es": "Más proyectos en GitHub",
         "en": "More projects on GitHub"
       },
@@ -229,25 +241,25 @@
   ],
   "education": [
     {
-      "institution": "UNEFA \u2014 Universidad Nacional Experimental Polit\u00e9cnica de la Fuerza Armada",
+      "institution": "UNEFA — Universidad Nacional Experimental Politécnica de la Fuerza Armada",
       "degree": {
-        "es": "Ingenier\u00eda de Sistemas",
+        "es": "Ingeniería de Sistemas",
         "en": "Systems Engineering"
       },
-      "period": "2014 \u2013 2019"
+      "period": "2014 – 2019"
     },
     {
       "institution": "Udemy",
       "degree": {
-        "es": "MERN Stack \u2014 MongoDB, Express, React, Node.js",
-        "en": "MERN Stack \u2014 MongoDB, Express, React, Node.js"
+        "es": "MERN Stack — MongoDB, Express, React, Node.js",
+        "en": "MERN Stack — MongoDB, Express, React, Node.js"
       },
       "period": "2024"
     },
     {
-      "institution": "Instituto T\u00e9cnico Tamanaco",
+      "institution": "Instituto Técnico Tamanaco",
       "degree": {
-        "es": "T\u00e9cnico en Reparaci\u00f3n de Computadoras",
+        "es": "Técnico en Reparación de Computadoras",
         "en": "Computer Repair Technician"
       },
       "period": "2020"
@@ -256,7 +268,7 @@
   "languages": [
     {
       "language": {
-        "es": "Espa\u00f1ol",
+        "es": "Español",
         "en": "Spanish"
       },
       "level": {
@@ -266,7 +278,7 @@
     },
     {
       "language": {
-        "es": "Ingl\u00e9s",
+        "es": "Inglés",
         "en": "English"
       },
       "level": {

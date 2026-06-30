@@ -163,15 +163,27 @@
     },
     {
       "title": {
-        "es": "Calculadora App",
-        "en": "Calculator App"
+        "es": "CV Profesional Multi-Perfil",
+        "en": "Multi-Profile Professional CV"
       },
       "description": {
-        "es": "Calculadora interactiva construida con React y Vite, con operaciones básicas y diseño responsive.",
-        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+        "es": "Sitio web de CV profesional con 6 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x.",
+        "en": "Professional CV website with 6 tailored profiles (Frontend, Analyst, Management, AI, Full Stack + Management, Frontend + AI), bilingual ES/EN support, and PDF export. Built with Astro 7.x."
       },
-      "url": "https://calculatorapp-eudysj95.netlify.app/",
-      "image": "/screenshots/calculator.jpg"
+      "url": "https://eudys-cv.netlify.app/",
+      "image": "/screenshots/cv-site.jpg"
+    },
+    {
+      "title": {
+        "es": "Portfolio Personal",
+        "en": "Personal Portfolio"
+      },
+      "description": {
+        "es": "Portfolio profesional que muestra mis proyectos, habilidades y experiencia como desarrollador Frontend, con diseño oscuro moderno construido con React y Vite.",
+        "en": "Professional portfolio showcasing my projects, skills, and experience as a Frontend developer, with a modern dark design built with React and Vite."
+      },
+      "url": "https://miportafolio-eudysj95.netlify.app/",
+      "image": "/screenshots/portfolio.jpg"
     },
     {
       "title": {
@@ -187,18 +199,6 @@
     },
     {
       "title": {
-        "es": "Hangman Game",
-        "en": "Hangman Game"
-      },
-      "description": {
-        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y diseño atractivo.",
-        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
-      },
-      "url": "https://the-hangman-game-eudysj95.netlify.app/",
-      "image": "/screenshots/hangman.jpg"
-    },
-    {
-      "title": {
         "es": "API Rest Countries",
         "en": "REST Countries API"
       },
@@ -211,15 +211,27 @@
     },
     {
       "title": {
-        "es": "Portfolio Personal",
-        "en": "Personal Portfolio"
+        "es": "Calculadora App",
+        "en": "Calculator App"
       },
       "description": {
-        "es": "Portfolio profesional que muestra mis proyectos, habilidades y experiencia como desarrollador Frontend, con diseño oscuro moderno construido con React y Vite.",
-        "en": "Professional portfolio showcasing my projects, skills, and experience as a Frontend developer, with a modern dark design built with React and Vite."
+        "es": "Calculadora interactiva construida con React y Vite, con operaciones básicas y diseño responsive.",
+        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
       },
-      "url": "https://miportafolio-eudysj95.netlify.app/",
-      "image": "/screenshots/portfolio.jpg"
+      "url": "https://calculatorapp-eudysj95.netlify.app/",
+      "image": "/screenshots/calculator.jpg"
+    },
+    {
+      "title": {
+        "es": "Hangman Game",
+        "en": "Hangman Game"
+      },
+      "description": {
+        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y diseño atractivo.",
+        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
+      },
+      "url": "https://the-hangman-game-eudysj95.netlify.app/",
+      "image": "/screenshots/hangman.jpg"
     },
     {
       "title": {

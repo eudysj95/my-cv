@@ -1,16 +1,16 @@
 {
   "name": "Eudys Mora",
   "title": {
-    "es": "Full Stack + Management",
-    "en": "Full Stack + Management"
+    "es": "Frontend + IA",
+    "en": "Frontend + AI"
   },
   "tagline": {
-    "es": "Frontend, IA, análisis de datos y gestión — mi stack completo.",
-    "en": "Frontend, AI, data analysis, and management — my complete stack."
+    "es": "Desarrollo frontend moderno, potenciado por inteligencia artificial.",
+    "en": "Modern frontend development, powered by artificial intelligence."
   },
   "summary": {
-    "es": "Ingeniero de Sistemas con experiencia integral en desarrollo web full-stack, integración de herramientas de inteligencia artificial y gestión empresarial. Especializado en frontend con React, JavaScript y Tailwind CSS, complementado con conocimientos en backend Node.js y MongoDB. Aplico IA en mi flujo de trabajo para optimizar código, depuración y documentación. Cuento con más de 5 años de experiencia en liderazgo de equipos, administración de operaciones, gestión de inventarios y control de costos. Esta combinación de habilidades técnicas, herramientas de IA y capacidad de gestión me permite abordar proyectos desde la visión estratégica hasta la ejecución técnica.",
-    "en": "Systems Engineer with comprehensive experience in full-stack web development, artificial intelligence tool integration, and business management. Specialized in frontend with React, JavaScript, and Tailwind CSS, complemented by backend knowledge in Node.js and MongoDB. I integrate AI into my workflow to optimize code, debugging, and documentation. With over 5 years of experience in team leadership, operations management, inventory management, and cost control. This combination of technical skills, AI tools, and management capability allows me to approach projects from strategic vision to technical execution."
+    "es": "Ingeniero de Sistemas con experiencia sólida en desarrollo frontend con React, JavaScript y Tailwind CSS, complementado con conocimientos en backend Node.js y MongoDB. Lo que me diferencia es mi capacidad para integrar herramientas de inteligencia artificial en el flujo de desarrollo: prompt engineering, generación de código asistida, depuración con IA y automatización de tareas. Combino fundamentos de ingeniería de sistemas con experiencia práctica en frontend para entregar soluciones web modernas y aumentadas por IA.",
+    "en": "Systems Engineer with solid experience in frontend development using React, JavaScript, and Tailwind CSS, complemented by backend knowledge in Node.js and MongoDB. What sets me apart is my ability to integrate artificial intelligence tools into the development workflow: prompt engineering, AI-assisted code generation, AI-powered debugging, and task automation. I combine systems engineering fundamentals with hands-on frontend expertise to deliver modern, AI-augmented web solutions."
   },
   "contact": {
     "email": "eudysjmorag@gmail.com",
@@ -53,6 +53,23 @@
     },
     {
       "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "SQL",
+        "Bash",
+        "Excel",
+        "Power BI",
+        "Ubuntu Linux",
+        "Warp"
+      ]
+    },
+    {
+      "category": {
         "es": "Herramientas IA",
         "en": "AI Tools"
       },
@@ -62,37 +79,59 @@
         "SDD",
         "Prompt Engineering"
       ]
-    },
+    }
+  ],
+  "aiTools": [
     {
       "category": {
-        "es": "Gestión y Liderazgo",
-        "en": "Management & Leadership"
+        "es": "Entorno de Trabajo con IA",
+        "en": "AI Work Environment"
       },
       "items": [
-        "Liderazgo de equipos",
-        "Gestión de inventarios",
-        "Administración de presupuestos",
-        "Control de costos",
-        "Mejora de procesos",
-        "Negociación con proveedores",
-        "Coordinación de turnos",
-        "Supervisión de personal"
+        {
+          "es": "OpenCode — editor con IA integrada",
+          "en": "OpenCode — AI-integrated editor"
+        },
+        {
+          "es": "Gentle AI — agente de desarrollo asistido",
+          "en": "Gentle AI — assisted development agent"
+        },
+        {
+          "es": "SDD — desarrollo guiado por especificaciones",
+          "en": "SDD — spec-driven development"
+        },
+        {
+          "es": "Gemini — consultas y exploración de ideas",
+          "en": "Gemini — queries and idea exploration"
+        },
+        {
+          "es": "Antigravity — exploración de herramientas IA",
+          "en": "Antigravity — AI tools exploration"
+        }
       ]
     },
     {
       "category": {
-        "es": "Herramientas",
-        "en": "Tools"
+        "es": "Capacidades",
+        "en": "Capabilities"
       },
       "items": [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "SQL",
-        "Excel",
-        "Power BI",
-        "Ubuntu Linux",
-        "Warp"
+        {
+          "es": "Generación y revisión de código con IA",
+          "en": "AI-assisted code generation and review"
+        },
+        {
+          "es": "Depuración y resolución de errores asistida",
+          "en": "AI-powered debugging and error resolution"
+        },
+        {
+          "es": "Arquitectura y planificación asistida (SDD)",
+          "en": "AI-assisted architecture and planning (SDD)"
+        },
+        {
+          "es": "Documentación automatizada",
+          "en": "Automated documentation"
+        }
       ]
     }
   ],
@@ -124,7 +163,7 @@
         "es": "Administrador",
         "en": "Manager"
       },
-      "period": "2021 – Actualidad",
+      "period": "2021 – Present",
       "current": true,
       "description": {
         "es": [

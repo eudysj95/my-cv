@@ -151,6 +151,18 @@
     },
     {
       "title": {
+        "es": "CV Profesional Multi-Perfil",
+        "en": "Multi-Profile Professional CV"
+      },
+      "description": {
+        "es": "Sitio web de CV profesional con 6 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x.",
+        "en": "Professional CV website with 6 tailored profiles (Frontend, Analyst, Management, AI, Full Stack + Management, Frontend + AI), bilingual ES/EN support, and PDF export. Built with Astro 7.x."
+      },
+      "url": "https://eudys-cv.netlify.app/",
+      "image": "/screenshots/cv-site.jpg"
+    },
+    {
+      "title": {
         "es": "Portfolio Personal",
         "en": "Personal Portfolio"
       },
