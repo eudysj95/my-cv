@@ -19,7 +19,7 @@
       "es": "Venezuela — Remoto",
       "en": "Venezuela — Remote"
     },
-    "linkedin": "https://www.linkedin.com/in/eudys-mora-a16431255",
+    "linkedin": "https://www.linkedin.com/in/eudysj95/",
     "github": "https://github.com/eudysj95",
     "portfolio": "https://miportafolio-eudysj95.netlify.app/"
   },
@@ -188,11 +188,23 @@
         "en": "PIKOS - Betting Center"
       },
       "description": {
-        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticación de usuarios y panel de administración.",
-        "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard."
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con asistencia de IA (SDD + Gentle AI), autenticación de usuarios y panel de administración.",
+        "en": "Multi-branch management system for a betting center, developed with AI assistance (SDD + Gentle AI), user authentication, and admin dashboard."
       },
       "url": "https://pikos-web.netlify.app/",
       "image": "/screenshots/pikos.jpg"
+    },
+    {
+      "title": {
+        "es": "Costos y Precios de Tortas",
+        "en": "Cake Cost & Pricing Manager"
+      },
+      "description": {
+        "es": "Aplicación web para calcular costos y precios de tortas, desarrollada con asistencia de IA (Gentle AI).",
+        "en": "Web application for calculating cake costs and pricing, developed with AI assistance (Gentle AI)."
+      },
+      "url": "https://mis-tortas.netlify.app/",
+      "image": "/screenshots/tortas.jpg"
     },
     {
       "title": {
@@ -200,8 +212,8 @@
         "en": "Multi-Profile Professional CV"
       },
       "description": {
-        "es": "Sitio web de CV profesional con 6 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x.",
-        "en": "Professional CV website with 6 tailored profiles (Frontend, Analyst, Management, AI, Full Stack + Management, Frontend + AI), bilingual ES/EN support, and PDF export. Built with Astro 7.x."
+        "es": "Sitio web de CV profesional con 6 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x mediante desarrollo asistido por IA (SDD + Gentle AI).",
+        "en": "Multi-profile professional CV with 6 versions, bilingual ES/EN, and PDF export. Built with Astro 7.x via AI-assisted development (SDD + Gentle AI)."
       },
       "url": "https://eudys-cv.netlify.app/",
       "image": "/screenshots/cv-site.jpg"
@@ -213,7 +225,7 @@
       },
       "description": {
         "es": "Portfolio profesional full-stack que muestra proyectos, habilidades y experiencia, construido con React, Vite y Tailwind CSS.",
-        "en": "Full-stack professional portfolio showcasing projects, skills, and experience, built with React, Vite and Tailwind CSS."
+        "en": "Full-stack professional portfolio showcasing projects, skills, and experience, built with React, Vite and Tailwind CSS via AI-assisted development."
       },
       "url": "https://miportafolio-eudysj95.netlify.app/",
       "image": "/screenshots/portfolio.jpg"

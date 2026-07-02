@@ -1,16 +1,16 @@
 {
   "name": "Eudys Mora",
   "title": {
-    "es": "Full Stack + Management",
-    "en": "Full Stack + Management"
+    "es": "Desarrollador Web Full-Stack impulsado por IA",
+    "en": "Full-Stack Web Developer powered by AI"
   },
   "tagline": {
-    "es": "Frontend, IA, análisis de datos y gestión — mi stack completo.",
-    "en": "Frontend, AI, data analysis, and management — my complete stack."
+    "es": "React, Node.js, MongoDB e inteligencia artificial integrada al desarrollo.",
+    "en": "React, Node.js, MongoDB, and AI-integrated development."
   },
   "summary": {
-    "es": "Ingeniero de Sistemas con experiencia integral en desarrollo web full-stack, integración de herramientas de inteligencia artificial y gestión empresarial. Especializado en frontend con React, JavaScript y Tailwind CSS, complementado con conocimientos en backend Node.js y MongoDB. Aplico IA en mi flujo de trabajo para optimizar código, depuración y documentación. Cuento con más de 5 años de experiencia en liderazgo de equipos, administración de operaciones, gestión de inventarios y control de costos. Esta combinación de habilidades técnicas, herramientas de IA y capacidad de gestión me permite abordar proyectos desde la visión estratégica hasta la ejecución técnica.",
-    "en": "Systems Engineer with comprehensive experience in full-stack web development, artificial intelligence tool integration, and business management. Specialized in frontend with React, JavaScript, and Tailwind CSS, complemented by backend knowledge in Node.js and MongoDB. I integrate AI into my workflow to optimize code, debugging, and documentation. With over 5 years of experience in team leadership, operations management, inventory management, and cost control. This combination of technical skills, AI tools, and management capability allows me to approach projects from strategic vision to technical execution."
+    "es": "Ingeniero de Sistemas especializado en desarrollo web full-stack con React, Node.js y MongoDB, potenciado por herramientas de inteligencia artificial para optimizar código, depuración y documentación.\n\nFrontend & Backend: Desarrollo con JavaScript, React, Tailwind CSS, Node.js, Express.js y APIs RESTful. Creación de interfaces modernas y sistemas backend escalables.\n\nIA en el Desarrollo: Integración de OpenCode, Gentle AI y SDD en el flujo de trabajo — generación de código asistida, depuración con IA y documentación automatizada.\n\nLiderazgo & Gestión Técnica: Más de 5 años liderando equipos, gestionando operaciones, inventarios y presupuestos. Capacidad para abordar proyectos desde la planificación estratégica hasta la ejecución técnica.",
+    "en": "Systems Engineer specialized in full-stack web development with React, Node.js, and MongoDB, powered by artificial intelligence tools to optimize code, debugging, and documentation.\n\nFrontend & Backend: Development with JavaScript, React, Tailwind CSS, Node.js, Express.js, and RESTful APIs. Building modern interfaces and scalable backend systems.\n\nAI in Development: Integration of OpenCode, Gentle AI, and SDD into the workflow — AI-assisted code generation, AI-powered debugging, and automated documentation.\n\nLeadership & Technical Management: Over 5 years leading teams, managing operations, inventories, and budgets. Ability to approach projects from strategic planning to technical execution."
   },
   "contact": {
     "email": "eudysjmorag@gmail.com",
@@ -19,7 +19,7 @@
       "es": "Venezuela — Remoto",
       "en": "Venezuela — Remote"
     },
-    "linkedin": "https://www.linkedin.com/in/eudys-mora-a16431255",
+    "linkedin": "https://www.linkedin.com/in/eudysj95/",
     "github": "https://github.com/eudysj95",
     "portfolio": "https://miportafolio-eudysj95.netlify.app/"
   },
@@ -107,14 +107,12 @@
       "current": false,
       "description": {
         "es": [
-          "Desarrollo y mantenimiento de sitios web con WordPress.",
-          "Creación y personalización de temas y plugins.",
-          "Gestión de contenido, actualizaciones y soporte al cliente."
+          "Desarrollé y mantuve sitios web corporativos con WordPress, incluyendo creación de temas y plugins personalizados.",
+          "Gestioné contenido, actualizaciones y soporte técnico a clientes, asegurando la operatividad continua de los sitios."
         ],
         "en": [
-          "Website development and maintenance with WordPress.",
-          "Creation and customization of themes and plugins.",
-          "Content management, updates, and client support."
+          "Developed and maintained corporate websites with WordPress, including custom theme and plugin creation.",
+          "Managed content, updates, and client technical support, ensuring continuous site operation."
         ]
       }
     },
@@ -128,16 +126,16 @@
       "current": true,
       "description": {
         "es": [
-          "Liderazgo de equipos de trabajo, coordinación de turnos y supervisión de personal.",
-          "Gestión de inventarios, proveedores y control de costos operativos.",
-          "Administración de presupuestos y reportes financieros mensuales.",
-          "Implementación de procesos de mejora continua en la operación diaria."
+          "Lidero equipos de trabajo, coordino turnos y superviso personal en un entorno de alta demanda.",
+          "Administro inventarios, negocio con proveedores y controlo costos operativos para optimizar la rentabilidad.",
+          "Gestiono presupuestos y elaboro reportes financieros mensuales para la toma de decisiones.",
+          "Implemento procesos de mejora continua que optimizan la operación diaria del negocio."
         ],
         "en": [
-          "Team leadership, shift coordination, and staff supervision.",
-          "Inventory management, supplier negotiations, and operational cost control.",
-          "Budget administration and monthly financial reporting.",
-          "Implemented continuous improvement processes in daily operations."
+          "Led teams, coordinated shifts, and supervised staff in a high-demand environment.",
+          "Managed inventory, negotiated with suppliers, and controlled operational costs to optimize profitability.",
+          "Administered budgets and prepared monthly financial reports for decision-making.",
+          "Implemented continuous improvement processes that optimized daily business operations."
         ]
       }
     }
@@ -149,11 +147,23 @@
         "en": "PIKOS - Betting Center"
       },
       "description": {
-        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con Next.js, autenticación de usuarios y panel de administración.",
-        "en": "Multi-branch management system for a betting center, developed with Next.js, user authentication, and admin dashboard."
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con asistencia de IA (SDD + Gentle AI), autenticación de usuarios y panel de administración.",
+        "en": "Multi-branch management system for a betting center, developed with AI assistance (SDD + Gentle AI), user authentication, and admin dashboard."
       },
       "url": "https://pikos-web.netlify.app/",
       "image": "/screenshots/pikos.jpg"
+    },
+    {
+      "title": {
+        "es": "Costos y Precios de Tortas",
+        "en": "Cake Cost & Pricing Manager"
+      },
+      "description": {
+        "es": "Aplicación web para calcular costos y precios de tortas, desarrollada con asistencia de IA (Gentle AI).",
+        "en": "Web application for calculating cake costs and pricing, developed with AI assistance (Gentle AI)."
+      },
+      "url": "https://mis-tortas.netlify.app/",
+      "image": "/screenshots/tortas.jpg"
     },
     {
       "title": {
@@ -161,8 +171,8 @@
         "en": "Multi-Profile Professional CV"
       },
       "description": {
-        "es": "Sitio web de CV profesional con 6 perfiles adaptables (Frontend, Analista, Gestión, IA, Full Stack + Gestión, Frontend + IA), soporte bilingüe ES/EN, y exportación a PDF. Construido con Astro 7.x.",
-        "en": "Professional CV website with 6 tailored profiles (Frontend, Analyst, Management, AI, Full Stack + Management, Frontend + AI), bilingual ES/EN support, and PDF export. Built with Astro 7.x."
+        "es": "CV profesional multi-perfil con 6 versiones, bilingüe ES/EN y exportación a PDF. Construido con Astro 7.x mediante desarrollo asistido por IA (SDD + Gentle AI).",
+        "en": "Multi-profile professional CV with 6 versions, bilingual ES/EN, and PDF export. Built with Astro 7.x via AI-assisted development (SDD + Gentle AI)."
       },
       "url": "https://eudys-cv.netlify.app/",
       "image": "/screenshots/cv-site.jpg"
@@ -173,7 +183,7 @@
         "en": "Personal Portfolio"
       },
       "description": {
-        "es": "Portfolio profesional full-stack que muestra proyectos, habilidades y experiencia, construido con React, Vite y Tailwind CSS.",
+        "es": "Portfolio profesional full-stack que muestra proyectos, habilidades y experiencia, construido con React, Vite y Tailwind CSS mediante desarrollo asistido por IA.",
         "en": "Full-stack professional portfolio showcasing projects, skills, and experience, built with React, Vite and Tailwind CSS."
       },
       "url": "https://miportafolio-eudysj95.netlify.app/",
