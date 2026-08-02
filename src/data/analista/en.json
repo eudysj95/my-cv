@@ -141,15 +141,27 @@
   "portfolio": [
     {
       "title": {
-        "es": "PIKOS - Centro de Apuestas",
-        "en": "PIKOS - Betting Center"
+        "es": "BodySuits and Sport - Catálogo de Ropa",
+        "en": "BodySuits and Sport - Clothing Catalog"
       },
       "description": {
-        "es": "Sistema de gestión multi-sucursal con análisis de datos, reportes y panel de administración, desarrollado con asistencia de IA (SDD + Gentle AI).",
-        "en": "Multi-branch management system with data analysis, reports, and admin dashboard, developed with AI assistance (SDD + Gentle AI)."
+        "es": "Catálogo de ropa online para venta de bodys, enterizos y calzas con precios por unidad, al mayor y promociones, integración con WhatsApp para consultas.",
+        "en": "Online clothing catalog for bodysuits, jumpsuits, and leggings with unit, wholesale, and promotional pricing, WhatsApp integration for inquiries."
       },
-      "url": "https://pikos-web.netlify.app/",
-      "image": "/screenshots/pikos.jpg"
+      "url": "https://app-beige-alpha-75.vercel.app/",
+      "image": "/screenshots/app-beige.jpg"
+    },
+    {
+      "title": {
+        "es": "Panadería - Control de Precios y Producción",
+        "en": "Bakery - Price & Production Control"
+      },
+      "description": {
+        "es": "Aplicación web para control de precios y producción de panadería, con gestión de ingredientes, recetas, producción y control de costos en bolívares y dólares.",
+        "en": "Web application for bakery price and production control, with ingredient management, recipes, production tracking, and cost control in bolívares and dollars."
+      },
+      "url": "https://panaderia-eudysj95.netlify.app/",
+      "image": "/screenshots/panaderia.jpg"
     },
     {
       "title": {
@@ -162,6 +174,18 @@
       },
       "url": "https://mis-tortas.netlify.app/",
       "image": "/screenshots/tortas.jpg"
+    },
+    {
+      "title": {
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
+      },
+      "description": {
+        "es": "Sistema de gestión multi-sucursal con análisis de datos, reportes y panel de administración, desarrollado con asistencia de IA (SDD + Gentle AI).",
+        "en": "Multi-branch management system with data analysis, reports, and admin dashboard, developed with AI assistance (SDD + Gentle AI)."
+      },
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
     },
     {
       "title": {
