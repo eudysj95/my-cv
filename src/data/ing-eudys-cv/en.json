@@ -1,0 +1,277 @@
+{
+  "name": "Eudys Mora",
+  "title": {
+    "es": "Ingeniero de Sistemas",
+    "en": "Systems Engineer"
+  },
+  "tagline": {
+    "es": "Desarrollo frontend moderno.",
+    "en": "Modern frontend development."
+  },
+  "summary": {
+    "es": "Ingeniero de Sistemas con sólida experiencia en el desarrollo web integral y competencias en el análisis de datos. Me destaco por integrar herramientas de inteligencia artificial en el flujo de desarrollo, optimizando la generación de código, la depuración y la automatización de tareas. Combino mis fundamentos de ingeniería con la experiencia práctica para entregar soluciones tecnológicas modernas y eficientes.",
+    "en": "Systems Engineer with solid experience in full-stack web development and data analysis competencies. I stand out for integrating artificial intelligence tools into the development workflow, optimizing code generation, debugging, and task automation. I combine my engineering fundamentals with practical experience to deliver modern and efficient technological solutions."
+  },
+  "contact": {
+    "email": "eudysjmorag@gmail.com",
+    "phone": "+58 (424) 6187569",
+    "location": {
+      "es": "Venezuela — Remoto",
+      "en": "Venezuela — Remote"
+    },
+    "linkedin": "https://www.linkedin.com/in/eudysj95/",
+    "github": "https://github.com/eudysj95",
+    "portfolio": "https://miportafolio-eudysj95.netlify.app/"
+  },
+  "skills": [
+    {
+      "category": {
+        "es": "Frontend",
+        "en": "Frontend"
+      },
+      "items": [
+        "JavaScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "WordPress"
+      ]
+    },
+    {
+      "category": {
+        "es": "Backend",
+        "en": "Backend"
+      },
+      "items": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "SQL",
+        "Bash",
+        "Excel",
+        "Power BI",
+        "Ubuntu Linux",
+        "Warp"
+      ]
+    },
+    {
+      "category": {
+        "es": "Herramientas IA",
+        "en": "AI Tools"
+      },
+      "items": [
+        "OpenCode",
+        "Gentle AI",
+        "SDD",
+        "Prompt Engineering",
+        "Gemini"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Distribuidora Copa Éxito C.A.",
+      "role": {
+        "es": "Administrador",
+        "en": "Manager"
+      },
+      "period": "2021 – Present",
+      "current": true,
+      "description": {
+        "es": [
+          "Liderazgo de equipos de trabajo, coordinación de turnos y supervisión de personal.",
+          "Gestión de inventarios, proveedores y control de costos operativos.",
+          "Administración de presupuestos y reportes financieros mensuales.",
+          "Implementación de procesos de mejora continua en la operación diaria."
+        ],
+        "en": [
+          "Team leadership, shift coordination, and staff supervision.",
+          "Inventory management, supplier negotiations, and operational cost control.",
+          "Budget administration and monthly financial reporting.",
+          "Implemented continuous improvement processes in daily operations."
+        ]
+      }
+    },
+    {
+      "company": "SEMAppic",
+      "role": {
+        "es": "Desarrollador Web",
+        "en": "Web Developer"
+      },
+      "period": "2018 – 2019",
+      "current": false,
+      "description": {
+        "es": [
+          "Desarrollo y mantenimiento de sitios web con WordPress.",
+          "Creación y personalización de temas y plugins.",
+          "Gestión de contenido, actualizaciones y soporte al cliente."
+        ],
+        "en": [
+          "Website development and maintenance with WordPress.",
+          "Creation and customization of themes and plugins.",
+          "Content management, updates, and client support."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNEFA — Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+      "degree": {
+        "es": "Ingeniería de Sistemas",
+        "en": "Systems Engineering"
+      },
+      "period": "2014 – 2019"
+    },
+    {
+      "institution": "Udemy",
+      "degree": {
+        "es": "MERN Stack — MongoDB, Express, React, Node.js",
+        "en": "MERN Stack — MongoDB, Express, React, Node.js"
+      },
+      "period": "2024"
+    },
+    {
+      "institution": "Instituto Técnico Tamanaco",
+      "degree": {
+        "es": "Técnico en Reparación de Computadoras",
+        "en": "Computer Repair Technician"
+      },
+      "period": "2020"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": {
+        "es": "PIKOS - Centro de Apuestas",
+        "en": "PIKOS - Betting Center"
+      },
+      "description": {
+        "es": "Sistema de gestión multi-sucursal para centro de apuestas, desarrollado con asistencia de IA (SDD + Gentle AI), autenticación de usuarios y panel de administración.",
+        "en": "Multi-branch management system for a betting center, developed with AI assistance (SDD + Gentle AI), user authentication, and admin dashboard."
+      },
+      "url": "https://pikos-web.netlify.app/",
+      "image": "/screenshots/pikos.jpg"
+    },
+    {
+      "title": {
+        "es": "Costos y Precios de Tortas",
+        "en": "Cake Cost & Pricing Manager"
+      },
+      "description": {
+        "es": "Aplicación web para calcular costos y precios de tortas, desarrollada con asistencia de IA (Gentle AI).",
+        "en": "Web application for calculating cake costs and pricing, developed with AI assistance (Gentle AI)."
+      },
+      "url": "https://mis-tortas.netlify.app/",
+      "image": "/screenshots/tortas.jpg"
+    },
+    {
+      "title": {
+        "es": "CV Profesional Multi-Perfil",
+        "en": "Multi-Profile Professional CV"
+      },
+      "description": {
+        "es": "CV profesional multi-perfil con 6 versiones, bilingüe ES/EN y exportación a PDF. Construido con Astro 7.x mediante desarrollo asistido por IA (SDD + Gentle AI).",
+        "en": "Multi-profile professional CV with 6 versions, bilingual ES/EN, and PDF export. Built with Astro 7.x via AI-assisted development (SDD + Gentle AI)."
+      },
+      "url": "https://eudys-cv.netlify.app/",
+      "image": "/screenshots/cv-site.jpg"
+    },
+    {
+      "title": {
+        "es": "Portfolio Personal",
+        "en": "Personal Portfolio"
+      },
+      "description": {
+        "es": "Portfolio profesional full-stack que muestra proyectos, habilidades y experiencia, construido con React, Vite y Tailwind CSS mediante desarrollo asistido por IA.",
+        "en": "Full-stack professional portfolio showcasing projects, skills, and experience, built with React, Vite, and Tailwind CSS via AI-assisted development."
+      },
+      "url": "https://miportafolio-eudysj95.netlify.app/",
+      "image": "/screenshots/portfolio.jpg"
+    },
+    {
+      "title": {
+        "es": "Sistema CRUD - Cuevana",
+        "en": "CRUD System - Cuevana"
+      },
+      "description": {
+        "es": "Aplicación CRUD estilo plataforma de contenido, construida con React y Vite para gestión de datos.",
+        "en": "CRUD application inspired by content platforms, built with React and Vite for data management."
+      },
+      "url": "https://cuevana-eudysj95.netlify.app/",
+      "image": "/screenshots/cuevana.jpg"
+    },
+    {
+      "title": {
+        "es": "API Rest Countries",
+        "en": "REST Countries API"
+      },
+      "description": {
+        "es": "Aplicación que consume la API REST de países, con búsqueda, filtrado y diseño responsive.",
+        "en": "Application consuming the REST Countries API, with search, filtering, and responsive design."
+      },
+      "url": "https://api-rest-countries-eudysj95.netlify.app/",
+      "image": "/screenshots/countries.jpg"
+    },
+    {
+      "title": {
+        "es": "Calculadora App",
+        "en": "Calculator App"
+      },
+      "description": {
+        "es": "Calculadora interactiva construida con React y Vite, con operaciones básicas y diseño responsive.",
+        "en": "Interactive calculator built with React and Vite, with basic operations and responsive design."
+      },
+      "url": "https://calculatorapp-eudysj95.netlify.app/",
+      "image": "/screenshots/calculator.jpg"
+    },
+    {
+      "title": {
+        "es": "Hangman Game",
+        "en": "Hangman Game"
+      },
+      "description": {
+        "es": "Juego del ahorcado interactivo desarrollado con React, con animaciones y diseño atractivo.",
+        "en": "Interactive Hangman game developed with React, featuring animations and engaging design."
+      },
+      "url": "https://the-hangman-game-eudysj95.netlify.app/",
+      "image": "/screenshots/hangman.jpg"
+    }
+  ],
+  "languages": [
+    {
+      "language": {
+        "es": "Español",
+        "en": "Spanish"
+      },
+      "level": {
+        "es": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "language": {
+        "es": "Inglés",
+        "en": "English"
+      },
+      "level": {
+        "es": "Intermedio",
+        "en": "Intermediate"
+      }
+    }
+  ]
+}
